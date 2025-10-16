@@ -18,201 +18,236 @@
 
 # RECOMMENDED FOLDER STRUCTURE
 
+## LEGEND:
+```
+🔴 CRITICAL - Must create before negotiation (Priority 1)
+🟡 IMPORTANT - Create during negotiation (Priority 2)
+🟢 HELPFUL - Create after deal closes (Priority 3)
+⚪ OPTIONAL - Nice to have, create as needed (Priority 4)
+
+📁 Folder
+📄 File
+```
+
+---
+
+## VISUAL TREE WITH PRIORITIES
+
 ```
 Negociation-Personal/
 │
-├── 01-Research/
-│   ├── Client-Research/
-│   │   ├── Company-Profile.md
-│   │   ├── Stakeholder-Analysis.md
-│   │   ├── Pain-Points-Analysis.md
-│   │   ├── Budget-Timeline-Research.md
-│   │   ├── Technical-Requirements.md
-│   │   └── Previous-Interactions-Log.md
+├── 📁 01-Research/ ⭐ START HERE - DO THIS FIRST
 │   │
-│   ├── Market-Research/
-│   │   ├── Competitor-Analysis.md
-│   │   ├── Market-Pricing-Benchmark.md
-│   │   ├── Industry-Trends.md
-│   │   └── Alternative-Solutions-Comparison.md
+│   ├── 📁 Client-Research/ (6 files - mostly 🔴 CRITICAL)
+│   │   ├── 📄 Company-Profile.md 🔴 CRITICAL
+│   │   ├── 📄 Stakeholder-Analysis.md 🔴 CRITICAL
+│   │   ├── 📄 Pain-Points-Analysis.md 🔴 CRITICAL
+│   │   ├── 📄 Budget-Timeline-Research.md 🔴 CRITICAL
+│   │   ├── 📄 Technical-Requirements.md ⚪ OPTIONAL
+│   │   └── 📄 Previous-Interactions-Log.md 🔴 CRITICAL
 │   │
-│   └── Internal-Analysis/
-│       ├── Cost-Breakdown.xlsx
-│       ├── BATNA-Analysis.md
-│       ├── Our-Capabilities-Inventory.md
-│       └── Leverage-Assessment.md
+│   ├── 📁 Market-Research/ (4 files - mix)
+│   │   ├── 📄 Competitor-Analysis.md 🔴 CRITICAL
+│   │   ├── 📄 Market-Pricing-Benchmark.md 🔴 CRITICAL
+│   │   ├── 📄 Industry-Trends.md ⚪ OPTIONAL
+│   │   └── 📄 Alternative-Solutions-Comparison.md ⚪ OPTIONAL
+│   │
+│   └── 📁 Internal-Analysis/ (4 files - all 🔴 CRITICAL)
+│       ├── 📄 Cost-Breakdown.xlsx 🔴 CRITICAL
+│       ├── 📄 BATNA-Analysis.md 🔴 CRITICAL
+│       ├── 📄 Leverage-Assessment.md 🔴 CRITICAL
+│       └── 📄 Our-Capabilities-Inventory.md ⚪ OPTIONAL
 │
-├── 02-Strategy/
-│   ├── Negotiation-Playbook.md
-│   ├── Pricing-Strategy.md
-│   ├── Concession-Plan.md
-│   ├── Objection-Response-Scripts.md
-│   ├── Value-Proposition.md
-│   └── Deal-Structure-Options.md
+├── 📁 02-Strategy/ ⭐ DO THIS SECOND - Core Strategy
+│   ├── 📄 Negotiation-Playbook.md 🔴 CRITICAL (Master strategy)
+│   ├── 📄 Pricing-Strategy.md 🔴 CRITICAL (Know your numbers!)
+│   ├── 📄 Concession-Plan.md 🔴 CRITICAL (What to give up)
+│   ├── 📄 Objection-Response-Scripts.md 🔴 CRITICAL (Be prepared)
+│   ├── 📄 Value-Proposition.md 🔴 CRITICAL (Why they should buy)
+│   └── 📄 Deal-Structure-Options.md 🔴 CRITICAL (Payment options)
 │
-├── 03-Materials-for-Client/
-│   ├── Presentations/
-│   │   ├── Executive-Presentation.pptx
-│   │   ├── Executive-Presentation.pdf
-│   │   ├── Technical-Deep-Dive.pptx
-│   │   └── Demo-Slides.pptx
+├── 📁 03-Materials-for-Client/ ⭐ DO THIS THIRD - Client-Facing
 │   │
-│   ├── Proposals/
-│   │   ├── Formal-Proposal-v1.pdf
-│   │   ├── Formal-Proposal-v2.pdf (if revised)
-│   │   ├── Executive-Summary-One-Pager.pdf
-│   │   └── Pricing-Sheet.pdf
+│   ├── 📁 Presentations/ (4 files)
+│   │   ├── 📄 Executive-Presentation.pptx 🔴 CRITICAL (Main deck)
+│   │   ├── 📄 Executive-Presentation.pdf 🔴 CRITICAL (Shareable version)
+│   │   ├── 📄 Technical-Deep-Dive.pptx ⚪ OPTIONAL (If technical buyer)
+│   │   └── 📄 Demo-Slides.pptx ⚪ OPTIONAL (Alternative to live demo)
 │   │
-│   ├── Demonstrations/
-│   │   ├── Demo-Script.md
-│   │   ├── Demo-Video.mp4 (backup)
-│   │   └── Sample-Data/ (folder with demo files)
+│   ├── 📁 Proposals/ (4 files)
+│   │   ├── 📄 Formal-Proposal-v1.pdf 🔴 CRITICAL (Detailed proposal)
+│   │   ├── 📄 Formal-Proposal-v2.pdf 🟡 IMPORTANT (After revisions)
+│   │   ├── 📄 Executive-Summary-One-Pager.pdf 🔴 CRITICAL (Quick overview)
+│   │   └── 📄 Pricing-Sheet.pdf 🔴 CRITICAL (Clear pricing)
 │   │
-│   ├── Supporting-Docs/
-│   │   ├── ROI-Calculator.xlsx
-│   │   ├── Case-Studies.pdf
-│   │   ├── Client-Testimonials.pdf
-│   │   ├── Technical-Specifications.pdf
-│   │   ├── Security-White-Paper.pdf
-│   │   ├── FAQ.pdf
-│   │   └── Company-Profile.pdf
+│   ├── 📁 Demonstrations/ (3 files)
+│   │   ├── 📄 Demo-Script.md 🔴 CRITICAL (What to show, step-by-step)
+│   │   ├── 📄 Demo-Video.mp4 ⚪ OPTIONAL (Backup if live fails)
+│   │   └── 📁 Sample-Data/ ⚪ OPTIONAL (Demo files)
 │   │
-│   └── Leave-Behinds/
-│       ├── One-Pager-Executive-Summary.pdf
-│       ├── Product-Feature-Sheet.pdf
-│       └── Quick-Reference-Guide.pdf
+│   ├── 📁 Supporting-Docs/ (7 files - mix)
+│   │   ├── 📄 ROI-Calculator.xlsx 🔴 CRITICAL (Show the value!)
+│   │   ├── 📄 Case-Studies.pdf ⚪ OPTIONAL (If you have them)
+│   │   ├── 📄 Client-Testimonials.pdf ⚪ OPTIONAL (Social proof)
+│   │   ├── 📄 Technical-Specifications.pdf ⚪ OPTIONAL (For tech buyers)
+│   │   ├── 📄 Security-White-Paper.pdf ⚪ OPTIONAL (If asked)
+│   │   ├── 📄 FAQ.pdf 🔴 CRITICAL (Answer common questions)
+│   │   └── 📄 Company-Profile.pdf ⚪ OPTIONAL (About you)
+│   │
+│   └── 📁 Leave-Behinds/ (3 files - all ⚪ OPTIONAL)
+│       ├── 📄 One-Pager-Executive-Summary.pdf ⚪ OPTIONAL
+│       ├── 📄 Product-Feature-Sheet.pdf ⚪ OPTIONAL
+│       └── 📄 Quick-Reference-Guide.pdf ⚪ OPTIONAL
 │
-├── 04-Contracts-Legal/
-│   ├── Templates/
-│   │   ├── Master-Service-Agreement-Template.docx
-│   │   ├── Statement-of-Work-Template.docx
-│   │   ├── NDA-Template.docx
-│   │   ├── SLA-Template.docx
-│   │   ├── Data-Processing-Agreement-Template.docx
-│   │   └── Change-Order-Template.docx
+├── 📁 04-Contracts-Legal/ (Create DURING negotiation)
 │   │
-│   ├── Client-Specific/
-│   │   ├── [ClientName]-MSA-Draft.docx
-│   │   ├── [ClientName]-SOW-Draft.docx
-│   │   ├── [ClientName]-NDA.docx
-│   │   └── [ClientName]-Final-Contract-Signed.pdf
+│   ├── 📁 Templates/ (6 files - all ⚪ OPTIONAL for now)
+│   │   ├── 📄 Master-Service-Agreement-Template.docx ⚪ OPTIONAL
+│   │   ├── 📄 Statement-of-Work-Template.docx ⚪ OPTIONAL
+│   │   ├── 📄 NDA-Template.docx ⚪ OPTIONAL
+│   │   ├── 📄 SLA-Template.docx ⚪ OPTIONAL
+│   │   ├── 📄 Data-Processing-Agreement-Template.docx ⚪ OPTIONAL
+│   │   └── 📄 Change-Order-Template.docx ⚪ OPTIONAL
 │   │
-│   └── Legal-Reference/
-│       ├── Industry-Standard-Terms.md
-│       ├── Legal-Checklist.md
-│       └── Contract-Negotiation-Notes.md
+│   ├── 📁 Client-Specific/ (4 files - 🟡 IMPORTANT during negotiation)
+│   │   ├── 📄 [ClientName]-MSA-Draft.docx 🟡 IMPORTANT
+│   │   ├── 📄 [ClientName]-SOW-Draft.docx 🟡 IMPORTANT
+│   │   ├── 📄 [ClientName]-NDA.docx 🟡 IMPORTANT
+│   │   └── 📄 [ClientName]-Final-Contract-Signed.pdf 🟢 HELPFUL (After close)
+│   │
+│   └── 📁 Legal-Reference/ (3 files - all ⚪ OPTIONAL)
+│       ├── 📄 Industry-Standard-Terms.md ⚪ OPTIONAL
+│       ├── 📄 Legal-Checklist.md ⚪ OPTIONAL
+│       └── 📄 Contract-Negotiation-Notes.md ⚪ OPTIONAL
 │
-├── 05-Worksheets/
-│   ├── BATNA-Worksheet-Completed.md
-│   ├── Pricing-Strategy-Worksheet-Completed.xlsx
-│   ├── Stakeholder-Analysis-Worksheet-Completed.md
-│   ├── Value-Proposition-Worksheet-Completed.md
-│   ├── ROI-Calculation-Worksheet.xlsx
-│   └── Concession-Tracker.xlsx
+├── 📁 05-Worksheets/ (Working documents - mostly 🔴 CRITICAL)
+│   ├── 📄 BATNA-Worksheet-Completed.md 🔴 CRITICAL (Know walkaway)
+│   ├── 📄 Pricing-Strategy-Worksheet-Completed.xlsx 🔴 CRITICAL (Your numbers)
+│   ├── 📄 Stakeholder-Analysis-Worksheet-Completed.md 🔴 CRITICAL (Know who's who)
+│   ├── 📄 Value-Proposition-Worksheet-Completed.md 🔴 CRITICAL (ROI calc)
+│   ├── 📄 ROI-Calculation-Worksheet.xlsx 🔴 CRITICAL (Working calculator)
+│   └── 📄 Concession-Tracker.xlsx 🟡 IMPORTANT (Use during negotiation)
 │
-├── 06-Meeting-Materials/
-│   ├── Pre-Meeting/
-│   │   ├── Meeting-Agenda.md
-│   │   ├── Team-Briefing.md
-│   │   ├── Role-Assignments.md
-│   │   └── Pre-Meeting-Checklist.md
+├── 📁 06-Meeting-Materials/
 │   │
-│   ├── During-Meeting/
-│   │   ├── Meeting-Notes-Template.md
-│   │   ├── Action-Items-Tracker.md
-│   │   └── Decision-Log.md
+│   ├── 📁 Pre-Meeting/ (4 files - all 🔴 CRITICAL)
+│   │   ├── 📄 Meeting-Agenda.md 🔴 CRITICAL (Send 24h before)
+│   │   ├── 📄 Team-Briefing.md 🔴 CRITICAL (Internal alignment)
+│   │   ├── 📄 Role-Assignments.md 🔴 CRITICAL (Who does what)
+│   │   └── 📄 Pre-Meeting-Checklist.md 🔴 CRITICAL (Final check)
 │   │
-│   └── Post-Meeting/
-│       ├── Meeting-Summary-Email-Template.md
-│       ├── Follow-Up-Plan.md
-│       ├── Next-Steps-Tracker.md
-│       └── Meeting-Debrief-Notes.md
+│   ├── 📁 During-Meeting/ (3 files - all 🟡 IMPORTANT)
+│   │   ├── 📄 Meeting-Notes-Template.md 🟡 IMPORTANT (Take notes!)
+│   │   ├── 📄 Action-Items-Tracker.md 🟡 IMPORTANT (Track commitments)
+│   │   └── 📄 Decision-Log.md 🟡 IMPORTANT (Log agreements)
+│   │
+│   └── 📁 Post-Meeting/ (5 files - all 🟡 IMPORTANT)
+│       ├── 📄 Meeting-Summary-Email-Template.md 🟡 IMPORTANT (Send within 24h)
+│       ├── 📄 Follow-Up-Plan.md 🟡 IMPORTANT (Next steps)
+│       ├── 📄 Next-Steps-Tracker.md 🟡 IMPORTANT (Action items)
+│       ├── 📄 Meeting-Debrief-Notes.md 🟡 IMPORTANT (Internal learnings)
+│       └── 📄 Negotiation-Round-Summary.md 🟡 IMPORTANT (Progress tracking)
 │
-├── 07-Communication/
-│   ├── Email-Templates/
-│   │   ├── Initial-Outreach-Template.md
-│   │   ├── Meeting-Request-Template.md
-│   │   ├── Proposal-Cover-Email-Template.md
-│   │   ├── Follow-Up-Email-Template.md
-│   │   ├── Thank-You-Email-Template.md
-│   │   ├── Contract-Send-Email-Template.md
-│   │   └── Welcome-Onboard-Email-Template.md
+├── 📁 07-Communication/
 │   │
-│   ├── Communication-Log/
-│   │   ├── Email-History.md
-│   │   ├── Call-Notes.md
-│   │   └── Chat-Transcripts.md
+│   ├── 📁 Email-Templates/ (7 files - all ⚪ OPTIONAL but helpful)
+│   │   ├── 📄 Initial-Outreach-Template.md ⚪ OPTIONAL
+│   │   ├── 📄 Meeting-Request-Template.md ⚪ OPTIONAL
+│   │   ├── 📄 Proposal-Cover-Email-Template.md ⚪ OPTIONAL
+│   │   ├── 📄 Follow-Up-Email-Template.md 🟡 IMPORTANT
+│   │   ├── 📄 Thank-You-Email-Template.md 🟡 IMPORTANT
+│   │   ├── 📄 Contract-Send-Email-Template.md 🟢 HELPFUL (After deal)
+│   │   └── 📄 Welcome-Onboard-Email-Template.md 🟢 HELPFUL (After close)
 │   │
-│   └── Scripts/
-│       ├── Phone-Call-Script.md
-│       ├── Objection-Handling-Script.md
-│       ├── Closing-Script.md
-│       └── Discovery-Questions-Script.md
+│   ├── 📁 Communication-Log/ (3 files - all 🟡 IMPORTANT)
+│   │   ├── 📄 Email-History.md 🟡 IMPORTANT (Log everything!)
+│   │   ├── 📄 Call-Notes.md 🟡 IMPORTANT (Document calls)
+│   │   └── 📄 Chat-Transcripts.md 🟡 IMPORTANT (WhatsApp, etc.)
+│   │
+│   └── 📁 Scripts/ (4 files - all 🔴 CRITICAL)
+│       ├── 📄 Phone-Call-Script.md 🔴 CRITICAL (What to say)
+│       ├── 📄 Objection-Handling-Script.md 🔴 CRITICAL (Key responses!)
+│       ├── 📄 Closing-Script.md 🔴 CRITICAL (Ask for business)
+│       └── 📄 Discovery-Questions-Script.md 🔴 CRITICAL (Uncover needs)
 │
-├── 08-Financial/
-│   ├── Cost-Analysis/
-│   │   ├── Development-Cost-Breakdown.xlsx
-│   │   ├── Infrastructure-Costs.xlsx
-│   │   ├── Support-Cost-Estimates.xlsx
-│   │   └── Total-Cost-Summary.xlsx
+├── 📁 08-Financial/
 │   │
-│   ├── Pricing-Models/
-│   │   ├── Tier-Pricing-Calculator.xlsx
-│   │   ├── Custom-Pricing-Scenarios.xlsx
-│   │   └── Discount-Structure.xlsx
+│   ├── 📁 Cost-Analysis/ (4 files)
+│   │   ├── 📄 Development-Cost-Breakdown.xlsx ⚪ OPTIONAL (Detailed)
+│   │   ├── 📄 Infrastructure-Costs.xlsx ⚪ OPTIONAL (Detailed)
+│   │   ├── 📄 Support-Cost-Estimates.xlsx ⚪ OPTIONAL (Detailed)
+│   │   └── 📄 Total-Cost-Summary.xlsx 🔴 CRITICAL (Roll-up of all costs)
 │   │
-│   └── Invoicing/
-│       ├── Invoice-Template.xlsx
-│       ├── Payment-Schedule.md
-│       └── Payment-Terms.md
+│   ├── 📁 Pricing-Models/ (3 files)
+│   │   ├── 📄 Tier-Pricing-Calculator.xlsx 🔴 CRITICAL (S/M/L tiers)
+│   │   ├── 📄 Custom-Pricing-Scenarios.xlsx ⚪ OPTIONAL (What-if analysis)
+│   │   └── 📄 Discount-Structure.xlsx ⚪ OPTIONAL (When to discount)
+│   │
+│   └── 📁 Invoicing/ (3 files - all 🟢 HELPFUL after deal)
+│       ├── 📄 Invoice-Template.xlsx 🟢 HELPFUL
+│       ├── 📄 Payment-Schedule.md 🟢 HELPFUL
+│       └── 📄 Payment-Terms.md 🟢 HELPFUL
 │
-├── 09-Implementation/
-│   ├── Project-Plan/
-│   │   ├── Implementation-Timeline-Gantt.xlsx
-│   │   ├── Milestone-Definitions.md
-│   │   ├── RACI-Matrix.xlsx
-│   │   └── Resource-Allocation.md
+├── 📁 09-Implementation/ (All 🟢 HELPFUL - After deal closes)
 │   │
-│   ├── Onboarding/
-│   │   ├── Onboarding-Checklist.md
-│   │   ├── Kickoff-Meeting-Agenda.md
-│   │   ├── Training-Plan.md
-│   │   └── Welcome-Packet.pdf
+│   ├── 📁 Project-Plan/ (4 files - all 🟢 HELPFUL)
+│   │   ├── 📄 Implementation-Timeline-Gantt.xlsx 🟢 HELPFUL
+│   │   ├── 📄 Milestone-Definitions.md 🟢 HELPFUL
+│   │   ├── 📄 RACI-Matrix.xlsx 🟢 HELPFUL
+│   │   └── 📄 Resource-Allocation.md 🟢 HELPFUL
 │   │
-│   └── Documentation/
-│       ├── User-Guide.pdf
-│       ├── Admin-Guide.pdf
-│       ├── Technical-Documentation.pdf
-│       └── FAQ-Support.pdf
+│   ├── 📁 Onboarding/ (4 files - all 🟢 HELPFUL)
+│   │   ├── 📄 Onboarding-Checklist.md 🟢 HELPFUL
+│   │   ├── 📄 Kickoff-Meeting-Agenda.md 🟢 HELPFUL
+│   │   ├── 📄 Training-Plan.md 🟢 HELPFUL
+│   │   └── 📄 Welcome-Packet.pdf 🟢 HELPFUL
+│   │
+│   └── 📁 Documentation/ (4 files - all 🟢 HELPFUL)
+│       ├── 📄 User-Guide.pdf 🟢 HELPFUL
+│       ├── 📄 Admin-Guide.pdf 🟢 HELPFUL
+│       ├── 📄 Technical-Documentation.pdf 🟢 HELPFUL
+│       └── 📄 FAQ-Support.pdf 🟢 HELPFUL
 │
-├── 10-Internal/
-│   ├── Team-Coordination/
-│   │   ├── Team-Roles-Responsibilities.md
-│   │   ├── Internal-Meeting-Notes.md
-│   │   └── Decision-Record.md
+├── 📁 10-Internal/
 │   │
-│   ├── Deal-Tracking/
-│   │   ├── Deal-Pipeline-Tracker.xlsx
-│   │   ├── Probability-Assessment.md
-│   │   └── Revenue-Forecast.xlsx
+│   ├── 📁 Team-Coordination/ (3 files)
+│   │   ├── 📄 Team-Roles-Responsibilities.md 🟡 IMPORTANT (If team)
+│   │   ├── 📄 Internal-Meeting-Notes.md ⚪ OPTIONAL
+│   │   └── 📄 Decision-Record.md ⚪ OPTIONAL
 │   │
-│   └── Lessons-Learned/
-│       ├── What-Worked.md
-│       ├── What-Didnt-Work.md
-│       ├── Improvements-for-Next-Time.md
-│       └── Negotiation-Debrief.md
+│   ├── 📁 Deal-Tracking/ (3 files - all ⚪ OPTIONAL)
+│   │   ├── 📄 Deal-Pipeline-Tracker.xlsx ⚪ OPTIONAL
+│   │   ├── 📄 Probability-Assessment.md ⚪ OPTIONAL
+│   │   └── 📄 Revenue-Forecast.xlsx ⚪ OPTIONAL
+│   │
+│   └── 📁 Lessons-Learned/ (4 files - all 🟢 HELPFUL after)
+│       ├── 📄 What-Worked.md 🟢 HELPFUL (Post-negotiation)
+│       ├── 📄 What-Didnt-Work.md 🟢 HELPFUL (Post-negotiation)
+│       ├── 📄 Improvements-for-Next-Time.md 🟢 HELPFUL (Continuous improvement)
+│       └── 📄 Negotiation-Debrief.md 🟢 HELPFUL (Team debrief)
 │
-├── 11-Reference/
-│   ├── Business-Roadmap-Personal.md (your existing file)
-│   ├── Negotiation-Preparation-Master-Document.md (your existing file)
-│   ├── File-and-Folder-Structure-Guide.md (this file)
-│   ├── Best-Practices-Library.md
-│   └── Industry-Resources.md
+├── 📁 11-Reference/ (Existing files + resources)
+│   ├── 📄 Business-Roadmap-Personal.md ✅ EXISTS
+│   ├── 📄 Negotiation-Preparation-Master-Document.md ✅ EXISTS
+│   ├── 📄 File-and-Folder-Structure-Guide.md ✅ EXISTS (this file)
+│   ├── 📄 Best-Practices-Library.md ⚪ OPTIONAL
+│   └── 📄 Industry-Resources.md ⚪ OPTIONAL
 │
-└── 12-Archive/
-    ├── Old-Versions/ (superseded documents)
-    ├── Rejected-Proposals/
-    └── Reference-Only/ (historical material)
+└── 📁 12-Archive/ (All ⚪ OPTIONAL - Create as needed)
+    ├── 📁 Old-Versions/ ⚪ OPTIONAL
+    ├── 📁 Rejected-Proposals/ ⚪ OPTIONAL
+    └── 📁 Reference-Only/ ⚪ OPTIONAL
+
+═══════════════════════════════════════════════════════════════════
+
+QUICK STATS:
+📊 Total: ~124 files across 12 main folders
+🔴 CRITICAL (Priority 1): 30 files - DO BEFORE NEGOTIATION
+🟡 IMPORTANT (Priority 2): 15 files - DO DURING NEGOTIATION
+🟢 HELPFUL (Priority 3): 20 files - DO AFTER DEAL CLOSES
+⚪ OPTIONAL (Priority 4): 59+ files - CREATE AS NEEDED
+
+═══════════════════════════════════════════════════════════════════
 ```
 
 ---
@@ -1215,6 +1250,309 @@ This structure may seem like overhead initially, but it will:
 
 ---
 
+---
+
+# PRIORITIZED ACTION PLAN
+
+## 🎯 PHASE 1: IMMEDIATE (Do Today - 2-3 hours)
+
+### Step 1: Setup Folder Structure (5 min)
+```batch
+# Run the commands from "Quick Start Guide" section above
+cd "c:\Users\kyrian\Documents\Negociation-Personal"
+# Then run all the mkdir commands
+```
+
+### Step 2: Critical Research (1-2 hours)
+Create these files in order:
+
+**01-Research/**
+1. 📄 `Client-Research/Company-Profile.md` 🔴 (30 min)
+   - Who are they? Size? Industry?
+   - What do you already know?
+
+2. 📄 `Client-Research/Stakeholder-Analysis.md` 🔴 (20 min)
+   - Who's the decision maker?
+   - Who's the technical buyer?
+   - Who influences the decision?
+
+3. 📄 `Client-Research/Pain-Points-Analysis.md` 🔴 (15 min)
+   - What problem are they trying to solve?
+   - What's it costing them now?
+
+4. 📄 `Internal-Analysis/Cost-Breakdown.xlsx` 🔴 (30 min)
+   - Your dev hours × rate
+   - Hosting, tokens, storage costs
+   - **THIS DETERMINES YOUR MINIMUM PRICE**
+
+5. 📄 `Internal-Analysis/BATNA-Analysis.md` 🔴 (15 min)
+   - What if they say no?
+   - What if you say no?
+   - Who has more leverage?
+
+**Total Phase 1 Time: ~2-3 hours**
+
+---
+
+## 🎯 PHASE 2: CORE STRATEGY (Do Tomorrow - 3-4 hours)
+
+### Step 3: Build Your Strategy (3-4 hours)
+Create these files:
+
+**02-Strategy/**
+1. 📄 `Pricing-Strategy.md` 🔴 (1 hour)
+   - From roadmap: Hard pass <15 units
+   - Target: 20 units
+   - Aspirational: 25 units
+   - Your tier structure (S/M/L)
+
+2. 📄 `Negotiation-Playbook.md` 🔴 (1 hour)
+   - Anchoring strategy (let them go first!)
+   - Your walkaway point
+   - Your leverage points (speed, low overhead, ready now)
+
+3. 📄 `Objection-Response-Scripts.md` 🔴 (45 min)
+   - "That's expensive" → ROI response
+   - "We can build in-house" → Opportunity cost
+   - "We need to think about it" → What concerns?
+
+4. 📄 `Value-Proposition.md` 🔴 (30 min)
+   - Why you vs. alternatives?
+   - What's the ROI for them?
+
+5. 📄 `Concession-Plan.md` 🔴 (30 min)
+   - What can you give up first? (payment terms, extra training)
+   - What can you give up second? (5% discount)
+   - What NEVER? (below 15 units, unlimited scope)
+
+**05-Worksheets/**
+6. 📄 `BATNA-Worksheet-Completed.md` 🔴 (15 min)
+   - Fill out the worksheet from Master Doc
+
+7. 📄 `Pricing-Strategy-Worksheet-Completed.xlsx` 🔴 (30 min)
+   - Calculate all your tiers
+   - Margins, discounts
+
+**Total Phase 2 Time: ~3-4 hours**
+
+---
+
+## 🎯 PHASE 3: CLIENT MATERIALS (Do This Week - 4-6 hours)
+
+### Step 4: Prepare Presentation Materials (4-6 hours)
+
+**03-Materials-for-Client/Presentations/**
+1. 📄 `Executive-Presentation.pptx` 🔴 (2-3 hours)
+   - 10-15 slides (use structure from Master Doc)
+   - Problem → Solution → Value → Pricing → Next Steps
+
+2. 📄 `Executive-Presentation.pdf` 🔴 (5 min)
+   - Export PPT to PDF
+
+**03-Materials-for-Client/Proposals/**
+3. 📄 `Pricing-Sheet.pdf` 🔴 (30 min)
+   - Clean table of your tiers
+   - What's included in each
+
+4. 📄 `Executive-Summary-One-Pager.pdf` 🔴 (1 hour)
+   - Single page overview
+   - Problem, Solution, Investment, ROI, Next Steps
+
+**03-Materials-for-Client/Supporting-Docs/**
+5. 📄 `ROI-Calculator.xlsx` 🔴 (1 hour)
+   - Their current costs vs. your solution
+   - Payback period calculation
+   - **THIS IS YOUR MOST POWERFUL TOOL**
+
+6. 📄 `FAQ.pdf` 🔴 (30 min)
+   - 10-15 common questions answered
+
+**03-Materials-for-Client/Demonstrations/**
+7. 📄 `Demo-Script.md` 🔴 (30 min)
+   - Step-by-step what you'll show
+   - 5-10 minute walkthrough
+
+**08-Financial/**
+8. 📄 `Total-Cost-Summary.xlsx` 🔴 (if not done in Phase 1)
+9. 📄 `Tier-Pricing-Calculator.xlsx` 🔴 (if not done in Phase 2)
+
+**Total Phase 3 Time: ~4-6 hours**
+
+---
+
+## 🎯 PHASE 4: MEETING PREP (Do Day Before Meeting - 1-2 hours)
+
+### Step 5: Final Meeting Preparation
+
+**06-Meeting-Materials/Pre-Meeting/**
+1. 📄 `Meeting-Agenda.md` 🔴 (15 min)
+   - Send to client 24h before
+   - Clear agenda, time allocations
+
+2. 📄 `Team-Briefing.md` 🔴 (15 min)
+   - Who does what (technical vs. business)
+   - Your roadmap mentions role division
+
+3. 📄 `Role-Assignments.md` 🔴 (10 min)
+   - Person A: Business, pricing, closing
+   - Person B: Demo, technical Q&A
+
+4. 📄 `Pre-Meeting-Checklist.md` 🔴 (10 min)
+   - Demo tested? ✓
+   - Presentation loaded? ✓
+   - Pricing sheet ready? ✓
+   - etc.
+
+**07-Communication/Scripts/**
+5. 📄 `Phone-Call-Script.md` 🔴 (15 min)
+6. 📄 `Objection-Handling-Script.md` 🔴 (already done in Phase 2)
+7. 📄 `Closing-Script.md` 🔴 (15 min)
+8. 📄 `Discovery-Questions-Script.md` 🔴 (15 min)
+
+**Total Phase 4 Time: ~1-2 hours**
+
+---
+
+## 🎯 PHASE 5: DURING NEGOTIATION (Real-time)
+
+### Step 6: Active Negotiation Files
+
+**06-Meeting-Materials/During-Meeting/**
+1. 📄 `Meeting-Notes-Template.md` 🟡
+   - Use during the meeting
+   - Capture everything!
+
+2. 📄 `Action-Items-Tracker.md` 🟡
+   - Who committed to what?
+
+3. 📄 `Decision-Log.md` 🟡
+   - What was agreed?
+
+**05-Worksheets/**
+4. 📄 `Concession-Tracker.xlsx` 🟡
+   - Track what you gave up
+   - Track what you got in return
+
+**07-Communication/Communication-Log/**
+5. 📄 `Email-History.md` 🟡
+6. 📄 `Call-Notes.md` 🟡
+
+---
+
+## 🎯 PHASE 6: AFTER NEGOTIATION (Same day / next day)
+
+### Step 7: Follow-Up
+
+**06-Meeting-Materials/Post-Meeting/**
+1. 📄 `Meeting-Summary-Email-Template.md` 🟡
+   - Send within 24 hours!
+   - Recap decisions, next steps
+
+2. 📄 `Follow-Up-Plan.md` 🟡
+3. 📄 `Next-Steps-Tracker.md` 🟡
+4. 📄 `Meeting-Debrief-Notes.md` 🟡
+   - Internal: what went well, what didn't
+
+**04-Contracts-Legal/Client-Specific/**
+5. 📄 `[ClientName]-MSA-Draft.docx` 🟡
+6. 📄 `[ClientName]-SOW-Draft.docx` 🟡
+7. 📄 `[ClientName]-NDA.docx` 🟡 (if needed)
+
+---
+
+## 🎯 PHASE 7: AFTER DEAL CLOSES (Post-signature)
+
+### Step 8: Implementation Setup
+
+**04-Contracts-Legal/Client-Specific/**
+1. 📄 `[ClientName]-Final-Contract-Signed.pdf` 🟢
+
+**08-Financial/Invoicing/**
+2. 📄 `Payment-Schedule.md` 🟢
+3. 📄 `Invoice-Template.xlsx` 🟢
+
+**09-Implementation/** (All 12 files)
+- Project plan, onboarding, documentation
+
+**10-Internal/Lessons-Learned/**
+4. 📄 `What-Worked.md` 🟢
+5. 📄 `What-Didnt-Work.md` 🟢
+6. 📄 `Improvements-for-Next-Time.md` 🟢
+7. 📄 `Negotiation-Debrief.md` 🟢
+
+---
+
+## 📅 TIMELINE SUMMARY
+
+| Phase | When | Time Required | # Files | Priority |
+|-------|------|---------------|---------|----------|
+| **Phase 1** | Today | 2-3 hours | 5 files | 🔴 CRITICAL |
+| **Phase 2** | Tomorrow | 3-4 hours | 7 files | 🔴 CRITICAL |
+| **Phase 3** | This week | 4-6 hours | 9 files | 🔴 CRITICAL |
+| **Phase 4** | Day before meeting | 1-2 hours | 8 files | 🔴 CRITICAL |
+| **Phase 5** | During negotiation | Real-time | 6 files | 🟡 IMPORTANT |
+| **Phase 6** | After each meeting | 1-2 hours | 7 files | 🟡 IMPORTANT |
+| **Phase 7** | After deal closes | 2-4 hours | 20+ files | 🟢 HELPFUL |
+
+**Total prep time before first meeting: 10-15 hours**
+
+---
+
+## 🚀 QUICK START (Absolute Minimum)
+
+**If you only have 4 hours before the negotiation:**
+
+### Hour 1: Know Your Numbers
+1. Cost-Breakdown.xlsx (your costs)
+2. Pricing-Strategy.md (your tiers: 15/20/25)
+3. BATNA-Analysis.md (walkaway point)
+
+### Hour 2: Know Your Strategy
+4. Negotiation-Playbook.md (anchoring, leverage)
+5. Objection-Response-Scripts.md (key responses)
+6. Value-Proposition.md (why you?)
+
+### Hour 3: Client-Facing Materials
+7. Executive-Presentation.pptx (10 slides minimum)
+8. Pricing-Sheet.pdf (clear pricing table)
+9. ROI-Calculator.xlsx (show the value)
+
+### Hour 4: Meeting Prep
+10. Demo-Script.md (what you'll show)
+11. Meeting-Agenda.md (send to client)
+12. Pre-Meeting-Checklist.md (final check)
+
+**These 12 files are the ABSOLUTE MINIMUM. You'll be prepared, but not polished.**
+
+---
+
+## 💡 PRO TIPS
+
+1. **Don't try to create all 124 files upfront**
+   - Focus on Priority 1 (30 files)
+   - Create others as needed
+
+2. **Use the templates from the Master Doc**
+   - Don't start from scratch
+   - Customize the templates
+
+3. **Work in phases**
+   - Research → Strategy → Materials → Meeting Prep
+   - Each phase builds on the previous
+
+4. **Get feedback**
+   - Share your pricing strategy with a trusted advisor
+   - Practice your pitch with your team
+
+5. **Update as you go**
+   - Communication-Log should be updated daily
+   - Meeting notes immediately after meetings
+
+---
+
 **END OF FILE & FOLDER STRUCTURE GUIDE**
 
-**Next Action:** Run Step 1 commands to create folder structure!
+**Next Action:**
+1. Run Step 1 commands to create folder structure (5 minutes)
+2. Start Phase 1: Create the 5 critical research files (2-3 hours)
+3. Then move to Phase 2: Build your strategy (3-4 hours)
