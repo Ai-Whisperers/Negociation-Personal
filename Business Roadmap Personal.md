@@ -1,0 +1,777 @@
+# Dossier Unificado — 3 Transcripciones (PTS v2.1)
+
+**Objetivo:** reestructurar sin pérdida los 3 audios; extraer decisiones y preparar playbook operativo.
+
+**Archivos:** 1.md, 2.md, 3.md. **Fecha:** 2025‑10‑16.
+
+## 1) Snapshot ejecutivo
+- **Modelo comercial:** SaaS con hosting + cargo por tokens/compute + mantenimiento opcional; ofrecer *combos/tiers* (small/medium/large) y variante *flat* ligada a volúmenes. 
+- **Precios/ancora:** discutir que la contraparte dé el **primer número**; *hard‑pass* < **15** (unidad a definir); opciones citadas: **5/10/15/20/25**; considerar horizonte de **2 meses** de trabajo.
+- **Costeo interno:** estimar por **horas** (ref. 120–150k PYG/h programadores), + tokens, + hosting, + almacenamiento (p. ej., **8–9 000 KB** de archivos), + soporte/cambios.
+- **Producto:** v1 listo/usable, con **API key** opcional del cliente; backend hace análisis (parquet/csv/xlsx), dashboard + export (Excel/CSV); cambios simples (colores/UI) ≠ funcionalidades nuevas.
+- **Negociación:** preparar **documentación/presentación**; definir **mínimos para rechazar**; usar **leverage**: rapidez, low‑overhead legal, escalabilidad y “subí‑archivos ya” como *selling points*.
+
+## 2) Mapa integrado (por ejes)
+### Pricing & Money
+- **1.md**
+  - # Transcription
+  - ## Metadata
+  - **Source File**: `WhatsApp Audio 2025-10-16 at 18.37.57.aac`
+  - **Duration**: 8.98 minutes
+  - **Processed**: 2025-10-16T18:47:47.212426
+  - **Transcription Model**: Whisper BASE
+  - **Language**: en
+  - ## Content
+  - Hello.
+  - ?
+  - … (115 más; ver Apéndice)
+- **2.md**
+  - # Transcription
+  - ## Metadata
+  - **Source File**: `2.aac`
+  - **Duration**: 11.10 minutes
+  - **Processed**: 2025-10-16T19:03:56.160966
+  - **Transcription Model**: Whisper SMALL
+  - **Language**: en
+  - ## Content
+  - The QR is different today, isn't it?
+  - I didn't know.
+  - … (159 más; ver Apéndice)
+- **3.md**
+  - # Transcription
+  - ## Metadata
+  - **Source File**: `3.aac`
+  - **Duration**: 6.79 minutes
+  - **Processed**: 2025-10-16T19:04:04.425045
+  - **Transcription Model**: Whisper BASE
+  - **Language**: en
+  - ## Content
+  - Say Toda yes, Oh My But so it's to me.
+  - Yes vaccine tarnum flatala For the travelers techniques If I remember, my own agenda
+  - … (132 más; ver Apéndice)
+### Negotiation & Strategy
+- **1.md**
+  - And then I have to prepare all the documents of the negotiation and ask for the general's documents.
+  - But when it comes to negotiation strategies or when it's going to be our minimum to reject, I mean, I don't know what to do, I don't know what to do.
+  - I told you that we have the leverage.
+  - Controestation is a sign for negotiation.
+  - When we are negotiating all these flights, we have to add them.
+- **2.md**
+  - I don't know what else you mentioned, but when we're negotiating, I'd like to say, look, these are the other things that you might be interested in, based on what you did earlier.
+  - We're going to say one more time, we're going to see the prices for updates in the future because right now we're negotiating for the product, not more than the service.
+- **3.md**
+  - Because this is a contract.
+  - But prepare us where we are going to prepare all the things in the negotiation that we should have prepared.
+  - How many are our minimums that we want minimums that if we don't get it, we will say sorry.
+  - For me that at least 15 seems to be good, like a hard pass.
+  - I would like to have a minimum of 5.
+  - And it is our minimum.
+  - We are new.
+  - And the next one is that you ask them.
+  - We are going to have a meeting tomorrow to see the issue of how much we will agree.
+### Product & Delivery
+- **1.md**
+  - # Transcription
+  - **Transcription Model**: Whisper BASE
+  - I have a documentation of the project, so I'm done.
+  - And then I have to prepare all the documents of the negotiation and ask for the general's documents.
+  - And I think that it's ready for this, I have a few things to do with what I sent in the group.
+  - We'll see if you can ask questions and prepare the documents.
+  - And then we'll prepare the documents.
+  - All the things you're adding now, like Don't worry, with the context of what I do before, I think it's already gone.
+  - And also another thing, that the price we are putting now is because we already did it.
+  - And it's not important to have them say that they are already aware of the point.
+  - … (1 más; ver Apéndice)
+- **2.md**
+  - # Transcription
+  - **Transcription Model**: Whisper SMALL
+  - So we can follow the conversation based on what was already sent.
+  - That's where we can go to for different insights and analysis.
+  - It offers subscription services.
+  - Any updates you want are extra.
+  - This is version 1.
+  - You can put your API key here.
+  - Or you can do it here where you're hosted.
+  - It would be good to do a documentation or a presentation.
+  - … (16 más; ver Apéndice)
+- **3.md**
+  - # Transcription
+  - **Transcription Model**: Whisper BASE
+  - worry can I use his Alizare document because it also Def pics��.
+  - You can put, but I'm talking you know Da CARI I have a session, I have a script for Kiriana and my class.
+  - I have a script that we will be talking about.
+  - Yes, the script Kiriana is less technical because it will not be able to play the part of that.
+  - The video from the most important side of me is because I can offer it to you and I am all the technical part.
+  - From the number that we are already...
+### Operations & Hours
+- **1.md**
+  - Well, it's time to have a whole context that I mentioned earlier.
+  - But when it comes to negotiation strategies or when it's going to be our minimum to reject, I mean, I don't know what to do, I don't know what to do.
+  - How much would you be covering for hours?
+  - How much hours would you work for?
+  - The hours that they worked on, the salary that you have to pay each one.
+  - It's also that you have to work to realize that, because at the same time they are making as many hours of people per person.
+  - How many people, how many hours, how many times a year, doing table-ups?
+  - Controestation, how many times...
+  - Also, we have to be able to save time and let it be more personal to dedicate the most optimal things.
+  - And that it will be more time to be doing the most possible.
+  - … (1 más; ver Apéndice)
+- **2.md**
+  - The QR is different today, isn't it?
+  - You have to see how many times they use the Mej.
+  - We're going to say one more time, we're going to see the prices for updates in the future because right now we're negotiating for the product, not more than the service.
+  - I think the best estimate for these things would obviously be the amount of time that you take to do something or the other.
+  - I think most of it is one day, and people think it's going to take you a month.
+  - Analyze throughout the month and when you get to a certain date, you tell me everything you want to change, everything you don't like about the service, or if it's an urgent emergency to change something that doesn't work.
+  - The price of what would be adjustments in the future would be to provide the amount of hours that we take to do the things.
+  - I would like to have a place where we have a fund, what would be the project that would be...
+  - Of course, but he's going to ask you how you're going to estimate that.
+  - We're going to estimate it with that.
+  - … (10 más; ver Apéndice)
+- **3.md**
+  - Let's say that we are going to work two months and...
+  - So, we are going to put two months.
+  - ...what is the thing that is the reason why you are here for these two months.
+  - I would like to say a number now, but I asked you a flat for a time to think of someone.
+  - The one we are covering today is the one from Veloper.
+  - He is going to talk to him with the day he wants to do what he wants.
+### Tech & Workflow
+- **1.md**
+  - **Source File**: `WhatsApp Audio 2025-10-16 at 18.37.57.aac`
+  - it would take 20- I don't know, I don't know what to say.
+  - Well, it's time to have a whole context that I mentioned earlier.
+  - And I think that it's ready for this, I have a few things to do with what I sent in the group.
+  - But when it comes to negotiation strategies or when it's going to be our minimum to reject, I mean, I don't know what to do, I don't know what to do.
+  - All the things you're adding now, like Don't worry, with the context of what I do before, I think it's already gone.
+  - We're going to pay you for it, because 20 bucks will be enough.
+  - The tokens that they're using, the service of being able to give you all your money.
+  - We're also going to do them literally that you can go up here, I don't know how many kilobytes, megabytes of memory, that is, archivos.
+  - We're going to do it practically.
+  - … (26 más; ver Apéndice)
+- **2.md**
+  - The QR is different today, isn't it?
+  - It's for not Christian or the shem-a-re.
+  - I don't know how it happened.
+  - I want to get him the money, you son of a bitch.
+  - But that's it.
+  - The audio is cut.
+  - Yes, here it is.
+  - But you can leave it prompting a few things to Cloud while we're doing it.
+  - If you need to write, just put it in.
+  - There you can see the audio.
+  - … (56 más; ver Apéndice)
+- **3.md**
+  - Say Toda yes, Oh My But so it's to me.
+  - worry can I use his Alizare document because it also Def pics��.
+  - Yes, the script Kiriana is less technical because it will not be able to play the part of that.
+  - The video from the most important side of me is because I can offer it to you and I am all the technical part.
+  - I think that if I would divide it, you would be the one who knows who.
+  - Yes, I will play it.
+  - What is it called?
+  - You know, I am talking about a new class in the United States.
+  - I have to put it here.
+  - Because I know you more than I can explain it to you.
+  - … (21 más; ver Apéndice)
+### Risks & Constraints
+- **1.md**
+  - Or the email, the connection is weird.
+- **2.md**
+  - The audio is cut.
+  - You have to have the headache of how to keep it and all that stuff.
+  - The connection is weird.
+  - Analyze throughout the month and when you get to a certain date, you tell me everything you want to change, everything you don't like about the service, or if it's an urgent emergency to change something that doesn't work.
+- **3.md**
+  - The guy will not understand things very well.
+  - Tell me, you don't have to tell him about a cute guy.
+### Other
+
+## 3) Datos/Anclas detectadas
+- **1.md:**
+  - , , , , ,  ← “**Source File**: `WhatsApp Audio 2025-10-16 at 18.37.57.aac`”
+  - ,  ← “**Duration**: 8.98 minutes”
+  - , , , ,  ← “**Processed**: 2025-10-16T18:47:47.212426”
+  -  ← “it would take 20- I don't know, I don't know what to say.”
+  -  ← “If we say that we'll pay you 20 bucks, we'll save you for this.”
+  -  ← “We're going to pay you for it, because 20 bucks will be enough.”
+  - ,  ← “I told you that we are going to have a chance to have that amount of, like I said, about 8000 or 9000 kilobets.”
+  - ,  ← “Look, when we are 1,000 and now we are going to get 7000 from Honda.”
+- **2.md:**
+  -  ← “**Source File**: `2.aac`”
+  - ,  ← “**Duration**: 11.10 minutes”
+  - , , , ,  ← “**Processed**: 2025-10-16T19:03:56.160966”
+  -  ← “This is version 1.”
+  -  ← “If you charge it 100,000, because it's a very cheap option.”
+  - , ,  ← “For example, I had prepared this for 5,000 and 10,000, or even 20,000.”
+  -  ← “Because we can say that now we're going to get 20 pounds for the thing, or whatever.”
+  -  ← “In the next project, we're going to get like 40.”
+- **3.md:**
+  -  ← “**Source File**: `3.aac`”
+  - ,  ← “**Duration**: 6.79 minutes”
+  - , , , ,  ← “**Processed**: 2025-10-16T19:04:04.425045”
+  -  ← “For me that at least 15.”
+  -  ← “For me that at least 15 seems to be good, like a hard pass.”
+  - ,  ← “We count at 25, we convince ourselves that at least 15 is enough.”
+  - ,  ← “For 3 and 7.”
+  - ,  ← “For 2 and 14 is what we were...”
+
+## 4) Playbook de negociación (5 pasos)
+1. **Ancla inversa:** pida que den **primer precio**; si insisten, rango controlado (25–15) y *hard‑pass* interno (<15).
+2. **Tiers/Combos:** 3 paquetes (S/M/L) + *flat* condicionado por volumen y límites (archivos/tokens).
+3. **Pieza de venta:** demo + una hoja de costos (horas/token/hosting) y **matriz de cambios** (UI vs features).
+4. **Cláusula de cambios:** cambios UI simples baratos; **nuevas features** con estimación por horas.
+5. **Cierre en 2‑meses:** cronograma, entregables y criterio de aceptación; soporte/mantenimiento como add‑on.
+
+## 5) Próximos pasos (operativos)
+- Armar **doc/presentación** con tiers + límite de archivos (ej. 9 000 KB) + costos variables (tokens/hosting).
+- Definir **precio piso** y **rechazo**; acordar métrica de unidad (PYG/USD/mes/implementación).
+- Instrumentar **tracking de horas** y **bitácora de cambios** para futuros presupuestos.
+- Preparar **guion no‑técnico** y **guion técnico** (rol dual en reunión).
+
+## 6) Muestra directa estructurada (extractos normalizados)
+### 1.md
+- # Transcription
+- ## Metadata
+- **Source File**: `WhatsApp Audio 2025-10-16 at 18.37.57.aac`
+- **Duration**: 8.98 minutes
+- **Processed**: 2025-10-16T18:47:47.212426
+- **Transcription Model**: Whisper BASE
+- **Language**: en
+- ## Content
+- Hello.
+- ?
+- Hello.
+- Hello?
+- Hello.
+- Hello?
+- Now, listen.
+- last one
+- coming
+- please
+- it would take 20- I don't know, I don't know what to say.
+- I don't know, this is something that I should be doing, research, and personal research.
+- German, this.
+- Well, it's time to have a whole context that I mentioned earlier.
+- I have a documentation of the project, so I'm done.
+- And then I have to prepare all the documents of the negotiation and ask for the general's documents.
+- And I think that it's ready for this, I have a few things to do with what I sent in the group.
+- … (107 líneas adicionales en el Apéndice)
+### 2.md
+- # Transcription
+- ## Metadata
+- **Source File**: `2.aac`
+- **Duration**: 11.10 minutes
+- **Processed**: 2025-10-16T19:03:56.160966
+- **Transcription Model**: Whisper SMALL
+- **Language**: en
+- ## Content
+- The QR is different today, isn't it?
+- I didn't know.
+- A scull, honestly.
+- A scull.
+- Another thing to mention.
+- In the Gekler Stalkias, you can see what projects the man is doing in the other places he did.
+- To be able to say, for example, and in the previous things you did, or related to ADC, you can do a final automatic of the relevant things to this.
+- Or filter the comments automatically and see what matters.
+- I don't know what else you mentioned, but when we're negotiating, I'd like to say, look, these are the other things that you might be interested in, based on what you did earlier.
+- Or we'll throw some more examples of some weird things that are related to him.
+- It's for not Christian or the shem-a-re.
+- Well, I think that's a good idea.
+- I don't know how the hell you can do those things, honestly.
+- I don't know how it happened.
+- I want to get him the money, you son of a bitch.
+- But that's it.
+- The audio is cut.
+- … (149 líneas adicionales en el Apéndice)
+### 3.md
+- # Transcription
+- ## Metadata
+- **Source File**: `3.aac`
+- **Duration**: 6.79 minutes
+- **Processed**: 2025-10-16T19:04:04.425045
+- **Transcription Model**: Whisper BASE
+- **Language**: en
+- ## Content
+- Say Toda yes, Oh My But so it's to me.
+- Yes vaccine tarnum flatala For the travelers techniques If I remember, my own agenda
+- If you're an egg Pul ass a synthesis There's no.
+- worry can I use his Alizare document because it also Def pics��.
+- You love, but I don't consider top top primeras son.
+- You can put, but I'm talking you know Da CARI I have a session, I have a script for Kiriana and my class.
+- I have a script that we will be talking about.
+- Are you guys the points we want to play?
+- Yes, the script Kiriana is less technical because it will not be able to play the part of that.
+- Uh-huh.
+- The video from the most important side of me is because I can offer it to you and I am all the technical part.
+- I think that if I would divide it, you would be the one who knows who.
+- Yes, I will play it.
+- Is that a bad idea?
+- Uh...
+- Uh, I don't play.
+- So basically, you live in the money talk.
+- … (130 líneas adicionales en el Apéndice)
+
+## Apéndice — Transcripción normalizada completa
+### 1.md
+- # Transcription
+- ## Metadata
+- **Source File**: `WhatsApp Audio 2025-10-16 at 18.37.57.aac`
+- **Duration**: 8.98 minutes
+- **Processed**: 2025-10-16T18:47:47.212426
+- **Transcription Model**: Whisper BASE
+- **Language**: en
+- ## Content
+- Hello.
+- ?
+- Hello.
+- Hello?
+- Hello.
+- Hello?
+- Now, listen.
+- last one
+- coming
+- please
+- it would take 20- I don't know, I don't know what to say.
+- I don't know, this is something that I should be doing, research, and personal research.
+- German, this.
+- Well, it's time to have a whole context that I mentioned earlier.
+- I have a documentation of the project, so I'm done.
+- And then I have to prepare all the documents of the negotiation and ask for the general's documents.
+- And I think that it's ready for this, I have a few things to do with what I sent in the group.
+- But when it comes to negotiation strategies or when it's going to be our minimum to reject, I mean, I don't know what to do, I don't know what to do.
+- Okay, thank you very much.
+- And then I'll tell you something about what you were doing there.
+- We'll see if you can ask questions and prepare the documents.
+- And then we'll prepare the documents.
+- I'm still doing the email, the email, the package, the process, the package.
+- That's fine, I have a complete.
+- What else?
+- What's going on?
+- To prepare what we have more than personal.
+- What we do after the extra, the email.
+- Or the email, the connection is weird.
+- Hello, hello, can you hear me?
+- Hello.
+- All the things you're adding now, like Don't worry, with the context of what I do before, I think it's already gone.
+- What do you mean by the chat that you told me about those things?
+- I remember that I mentioned that in this project, you have to know that, obviously, in any thing you see, you have to know your costs.
+- How much would you be covering for hours?
+- How much hours would you work for?
+- What if we don't have more than that in the market, we're going to do something like that to less determine our costs.
+- What happens?
+- If we say that we'll pay you 20 bucks, we'll save you for this.
+- We're going to pay you for it, because 20 bucks will be enough.
+- There are many things inside of this.
+- The hours that they worked on, the salary that you have to pay each one.
+- The tokens that they're using, the service of being able to give you all your money.
+- We're also going to do them literally that you can go up here, I don't know how many kilobytes, megabytes of memory, that is, archivos.
+- What's inside?
+- And for the...
+- We're going to do it practically.
+- So, all this is inside the price that you don't have to pay for.
+- I told you that I'm going to pay you for the purchase.
+- I told you that we have the leverage.
+- In the part of Austin, it's a computation, there you can say it's normal.
+- So, you can say that this is a lot of money and it's true.
+- Because companies, for legal things, such as big companies, they have to declare that there are a lot of things, we're like a little company.
+- We don't have to do that.
+- have to write a book or something like that.
+- They have to see if I don't have to write.
+- What in the picture?
+- I'm doing that, Di Ald king contrador's.
+- I'm going to hand them.
+- We will change every subject this Shy Verses Girl, because we're going to be cancerous over there And how do you put a factor in that?
+- Controestation is a sign for negotiation.
+- It's also that you have to work to realize that, because at the same time they are making as many hours of people per person.
+- How many people, how many hours, how many times a year, doing table-ups?
+- Of course, to know how many and we are now working on it.
+- And also another thing, that the price we are putting now is because we already did it.
+- But we have to realize that they will probably have to change many things.
+- And that we will have more information that can analyze more things.
+- So that has been a big deal in the other way.
+- That's a big deal, okay?
+- Another thing to do is to keep up.
+- I was going to do it again to be able to transfer later.
+- Okay.
+- Controestation, how many times...
+- Also, we have to be able to save time and let it be more personal to dedicate the most optimal things.
+- And that it will be more time to be doing the most possible.
+- Of course, it is more to recall the value that the page has.
+- Mm-hmm.
+- There.
+- What do you mean by the type of person?
+- I don't get it.
+- Perfect.
+- I'm in favor of this, to keep it in person, to the companies, to all the contacts that you have in business.
+- Supermodel.
+- But if you can automatize that, it will happen again.
+- Okay.
+- Are you commenting on what is the type of person?
+- GIFs are the most personal person in the world.
+- They are the people of Argentina.
+- And it's not important to have them say that they are already aware of the point.
+- This is a protective point.
+- But if GIFs are the power, we are going to say about IT people.
+- The people are informed about that.
+- So, yes.
+- I can't enter the numbers.
+- I don't know how much, how molestos sometimes, queries, gimmicks.
+- General.
+- Yes, no.
+- I'm totally agree.
+- I'm also in favor of trying to make them happy to the world and to make them better.
+- Yes.
+- For example, the simple fact that I, at least what I said, we are going to look for a solution for tomorrow.
+- I told you that we are going to have a chance to have that amount of, like I said, about 8000 or 9000 kilobets.
+- That's it.
+- That's it.
+- When we are negotiating all these flights, we have to add them.
+- This is an example that this amount we prepared for this and that later it would not come from a truck.
+- We have to have this one.
+- No, of course.
+- But what I said is that...
+- Look, when we are 1,000 and now we are going to get 7000 from Honda.
+- Of course, but there is the issue that we are talking about.
+- Look, it's not all the information, but now that you have seen us, look at what we have done to the scenario.
+- Look, the easiest thing for us to do is to give it a try.
+- If you give it a try, it's an immense amount of information.
+- One thing you see.
+- Yes.
+- And that's a big selling point.
+- That's to get this out, so you have to add it when we are selling.
+- You can also mention it.
+- Real pro.
+- Something in the video.
+- It is to regale.
+- Another one is to have more ideas.
+- *Word Count: 1160 words*
+### 2.md
+- # Transcription
+- ## Metadata
+- **Source File**: `2.aac`
+- **Duration**: 11.10 minutes
+- **Processed**: 2025-10-16T19:03:56.160966
+- **Transcription Model**: Whisper SMALL
+- **Language**: en
+- ## Content
+- The QR is different today, isn't it?
+- I didn't know.
+- A scull, honestly.
+- A scull.
+- Another thing to mention.
+- In the Gekler Stalkias, you can see what projects the man is doing in the other places he did.
+- To be able to say, for example, and in the previous things you did, or related to ADC, you can do a final automatic of the relevant things to this.
+- Or filter the comments automatically and see what matters.
+- I don't know what else you mentioned, but when we're negotiating, I'd like to say, look, these are the other things that you might be interested in, based on what you did earlier.
+- Or we'll throw some more examples of some weird things that are related to him.
+- It's for not Christian or the shem-a-re.
+- Well, I think that's a good idea.
+- I don't know how the hell you can do those things, honestly.
+- I don't know how it happened.
+- I want to get him the money, you son of a bitch.
+- But that's it.
+- The audio is cut.
+- My inspiration is Yawmony.
+- Look, now I know what else we need to do.
+- I've sent you the file.
+- Yes, here it is.
+- But you can leave it prompting a few things to Cloud while we're doing it.
+- If you need to write, just put it in.
+- So we can follow the conversation based on what was already sent.
+- There you can see the audio.
+- That's where we can go to for different insights and analysis.
+- I'd say it's simple.
+- The context you have, in some parts of what you've been researching so far, put the audio in the prompt and tell Cloud to investigate a flash and it's with the USB.
+- We don't need to talk about it.
+- It's hard.
+- Hell yeah.
+- We have a free tier.
+- It offers subscription services.
+- You can subscribe to use infinite amounts.
+- You have to see how many times they use the Mej.
+- It depends on what you're proposing.
+- For me, the ideal is to pay a price to use the software, the micro service, and another price to use the maintenance.
+- Any updates you want are extra.
+- I'm thinking that for anyone who can use it, you have to see a flash.
+- This is version 1.
+- You can put your API key here.
+- Or you can do it here where you're hosted.
+- It's easy to use.
+- We'll charge you this one.
+- Again, considering what he said at the moment, he said he's easy to use the software.
+- For me, hosting is the easiest thing.
+- And again, the easiest thing would be to be charging him for the tokens and hosting the page.
+- I'm going to offer you several options.
+- You can choose the one you want to use the most.
+- Would you like to use the alternative?
+- It would be good to do a documentation or a presentation.
+- So that he can see what you're saying.
+- Yes, that's why.
+- To do it with the range later.
+- But if you go to Burger King and you have a small cup, a medium cup, and a big cup, and everyone is already talking about the other options.
+- It's a good idea.
+- The translation of this is from the way you do it.
+- You can do it with a camera, presentation, and a flash.
+- But what's there is very true.
+- Literally, they're...
+- They work like this, even in any restaurant menu.
+- They always have the combos.
+- And the combos exist because they're cheaper.
+- And they're much more convenient than with individual costs.
+- You have to recharge it.
+- Look, if you choose another option, you have to charge everything.
+- You have to have the headache of how to keep it and all that stuff.
+- This mask, I love this.
+- Ready.
+- What else?
+- What else?
+- What else?
+- If you want to update things, like...
+- We're going to be paying the prices with Nia.
+- But it depends on what you're asking for.
+- If it's expensive, it can be cheapish.
+- But I want to give it the same...
+- If you say it's good, a good amount of money has to be changed.
+- If you charge it 100,000, because it's a very cheap option.
+- It can also be if you want to...
+- So, what I did...
+- I didn't know what this was going to be.
+- There are ways to do this in general.
+- So, it's not that much to change everything.
+- For example, I had prepared this for 5,000 and 10,000, or even 20,000.
+- But...
+- I mean, to change it is going to be super easy.
+- I mean, how to charge it is because it's a obvious voltage.
+- And it's a voltage that the owner doesn't know it's a voltage.
+- The connection is weird.
+- Wait, let's go.
+- Let's go to the side.
+- For example, if you change the colors, you wouldn't charge the same as if you were going to add a functionality.
+- What?
+- Can you hear me?
+- Yes, I can hear you.
+- Now you can hear me.
+- For example, for blue-dates, which are so obvious and stupid that you do it for a while, you don't charge it the same way as if you were going to add a lot of things.
+- It's something more complex, but that's why I charge you more.
+- From that side, what I would also like is that it's not easy to differentiate how much to charge the people for the things.
+- In the updates, but that's a divide for later.
+- We're going to say one more time, we're going to see the prices for updates in the future because right now we're negotiating for the product, not more than the service.
+- If you want more changes, we'll see you later.
+- Of course.
+- We're going to do it in that way.
+- I think the best estimate for these things would obviously be the amount of time that you take to do something or the other.
+- I think most of it is one day, and people think it's going to take you a month.
+- Of course, but that's the point.
+- You have to think about how before, how much would you take the initiative manually.
+- Yes, I would like to see what kind of things, not just one volume, but what we do more.
+- If you want changes, go through as well as you want.
+- Analyze throughout the month and when you get to a certain date, you tell me everything you want to change, everything you don't like about the service, or if it's an urgent emergency to change something that doesn't work.
+- Yes, if you don't have a volume, one volume, two volume, you tell me, look, put your volume together and we'll fix you.
+- Yes, and kind of, back and forth, it would be...
+- You know what we're going to do?
+- The price of what would be adjustments in the future would be to provide the amount of hours that we take to do the things.
+- I would like to have a place where we have a fund, what would be the project that would be...
+- Of course, but he's going to ask you how you're going to estimate that.
+- We're going to estimate it with that.
+- That's what I mean.
+- Having a place where we have...
+- That's for later, not for now.
+- It's very, very possible with a project.
+- But your project, all the features that you had, how much did you pay for the project and have it like that every time?
+- Because we can say that now we're going to get 20 pounds for the thing, or whatever.
+- In the next project, we're going to get like 40.
+- So we know that we can estimate all the things higher.
+- In the next one, they tell us if we already have 70 of them, well, high in the numbers, we'll figure it out.
+- Sure, but you know what else?
+- That depends on the things that you're going to change, because the idea is that updates or arrangements are never more expensive than the...
+- The first version you're going to use.
+- That's why there's a lot of things to do.
+- All your projects, all the features that you had in the project.
+- And when you want to add a feature, you can analyze it based on all the other things.
+- For this project that we paid for, the deal was like this.
+- How much should we charge it, depending on...
+- I don't know if you have a good prompt, a good agent that tells you, if I think this amount is good.
+- Yeah.
+- That's my idea.
+- Yeah.
+- But that would be later, to get this thing.
+- Because that's what I think is going to stress us out a lot.
+- Like, how much do we charge it?
+- Yeah, you have to have your eyes wide open.
+- But to have our analytics, to use our analytics to put the fucking pressure on the city.
+- Yeah.
+- So mom, what I've been told is that in the middle, for example, the programmers that cover a lot, they earn between 120 and 150 guarnes per hour.
+- 120, 150,000 guarnes per hour.
+- Maybe not.
+- And based on that, if you know the amount of time that you take your projects, you explain that to me, if you have a next-level price, how much can you pay for them?
+- It's enough, Dev.
+- I'm in favor of doing that.
+- I think it was with the things that Guil did that made it possible to separate how many hours were in this project.
+- The original is what I tell them, I think they all got bored because they were in another repository out there.
+- So don't worry, you can invent a few hours x if you want.
+- But re-use that to do an analytics and put the price on this thing.
+- Okay.
+- But...
+- Why do you shake with you?
+- Because I'm autistic.
+- I'm high.
+- I'm going to say meow.
+- But you know, any other thing that's useful...
+- I don't know anymore.
+- I'm preparing an overkill, no funders.
+- *Word Count: 1673 words*
+### 3.md
+- # Transcription
+- ## Metadata
+- **Source File**: `3.aac`
+- **Duration**: 6.79 minutes
+- **Processed**: 2025-10-16T19:04:04.425045
+- **Transcription Model**: Whisper BASE
+- **Language**: en
+- ## Content
+- Say Toda yes, Oh My But so it's to me.
+- Yes vaccine tarnum flatala For the travelers techniques If I remember, my own agenda
+- If you're an egg Pul ass a synthesis There's no.
+- worry can I use his Alizare document because it also Def pics��.
+- You love, but I don't consider top top primeras son.
+- You can put, but I'm talking you know Da CARI I have a session, I have a script for Kiriana and my class.
+- I have a script that we will be talking about.
+- Are you guys the points we want to play?
+- Yes, the script Kiriana is less technical because it will not be able to play the part of that.
+- Uh-huh.
+- The video from the most important side of me is because I can offer it to you and I am all the technical part.
+- I think that if I would divide it, you would be the one who knows who.
+- Yes, I will play it.
+- Is that a bad idea?
+- Uh...
+- Uh, I don't play.
+- So basically, you live in the money talk.
+- Hey, what do you mean I don't play?
+- For...
+- What is it called?
+- I don't know.
+- You know, I am talking about a new class in the United States.
+- Uh-huh.
+- Uh-huh.
+- I don't think we will play the part of that.
+- Uh-huh.
+- I think the marketing is good too.
+- Uh-huh.
+- Oh, you are not saying anything.
+- No, so you are the one who is more beautiful.
+- No, I don't know you.
+- I have to put it here.
+- I have to put some things in the back.
+- And I don't know.
+- Because I know you more than I can explain it to you.
+- Well, then, if I have more to write here, then I will play the role so I can fall.
+- So we are talking about one and the other.
+- Because this is a contract.
+- Uh-huh.
+- You also practice to talk about someone in the technical.
+- Yeah.
+- I need to do this because I don't know how to do technical.
+- Yes, I do.
+- I don't know.
+- You do it because you don't like it.
+- How do you call it?
+- Okay.
+- The guy will not understand things very well.
+- Look at this box.
+- It's magic.
+- So, you can do all your problems.
+- No, you are not going to feel offended, bro.
+- But prepare us where we are going to prepare all the things in the negotiation that we should have prepared.
+- What will you see?
+- Because I remember at least that the class was going to do some things.
+- How many?
+- How many are our minimums that we want minimums that if we don't get it, we will say sorry.
+- From the number that we are already...
+- For me that at least 15.
+- For me that at least 15 seems to be good, like a hard pass.
+- But we don't see any.
+- We count at 25, we convince ourselves that at least 15 is enough.
+- Let's say that we are going to work two months and...
+- ...between regular and basic vacations and bullshit.
+- So, we are going to put two months.
+- For 3 and 7.
+- For 2 and 14 is what we were...
+- ...what is the thing that is the reason why you are here for these two months.
+- I would like to have a minimum of 5.
+- So we are going to do 10 for 20.
+- And it is our minimum.
+- Because there is a middle salary.
+- Yes.
+- I want to have a project.
+- I don't know.
+- I would like to say that the first one has a number before us.
+- Because there is a big salary.
+- Of course you pay, that's why we pay a lot more.
+- Yes, that's why.
+- We are new.
+- What are the number of you that are willing to...
+- ...to have a flat if you like the function, if you explain it to everyone that you can do it?
+- And the next one is that you ask them.
+- They are a big company.
+- They are three years old, talking about a college.
+- That's why we are talking.
+- If you don't want to put them on the floor, I would like to say that they are going to get a flat.
+- And they will tell you more.
+- If that is the case, it is super.
+- I will ask you something.
+- I will ask you something.
+- It will be very weird.
+- If you ask me something, I will explain.
+- I would like to say a number now, but I asked you a flat for a time to think of someone.
+- I am not sure about this.
+- I am not sure about this.
+- I was not sure about this.
+- I was wondering about the man who is Jorge.
+- And...
+- Tell me, you don't have to tell him about a cute guy.
+- We are going to have a meeting tomorrow to see the issue of how much we will agree.
+- Because my son said I will tell him about a number.
+- But I don't know.
+- I don't know what we are seeing.
+- The guy is fine and wants to know more.
+- So I can see a few things.
+- I think I can be a fool in this kind of attitude.
+- I am not going to make you a fool.
+- Look, this is actually more efficient.
+- It is normal prices.
+- But we also need money to grow and be able to do all the other tools.
+- Because they are more expensive.
+- So what we have here is 22 pounds.
+- The one we are covering today is the one from Veloper.
+- This one.
+- And they are not explaining to us.
+- So it is not necessarily about the context.
+- But I am also working with you, Mingli.
+- Look, the weapon is full context.
+- Because I don't see what you are going to play with.
+- I am going to tell you more.
+- If a normal price is normal, we are covering this.
+- Death is very important.
+- They did it so fast.
+- So, the guy who is not the guy who is strong, is the guy who is not going to press the button that is the one who is the one who is going to play.
+- He is going to press the button.
+- He is not going to do the machine.
+- He is not going to talk to him.
+- He is going to talk to him with the day he wants to do what he wants.
+- That is why we are here at Whisper.
+- He is going to do it in front of us.
+- But...
+- So you can give you a context of the number you can take from the man.
+- I can do that.
+- I...
+- I...
+- Okay.
+- This is not a real answer.
+- I am going to ask you if you want to give it to the guy.
+- It seems to you.
+- I...
+- For me...
+- You are going to be a full full talk.
+- Uh-huh.
+- The other way.
+- Give it to the last audio.
+- *Word Count: 1163 words*
