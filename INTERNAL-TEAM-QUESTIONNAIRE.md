@@ -10,19 +10,12 @@
 
 ### Company Identity
 1. **What is your company/team name?**
-   - Official company name:
-   - Team name (if different):
-   - How do you want to be referred to in client materials?
+   we are "AI whisperers"
 
 2. **Company type and structure:**
-   - [ ] Solo developer/freelancer
-   - [ ] Partnership (2-3 people)
-   - [ ] Small agency (4-10 people)
-   - [ ] Other: ___________
-
+   we are 3 devs partners
 3. **How long have you been in business?**
-   - Years/months:
-   - Are you new to this? (The roadmap mentions "we are new")
+   3 months
 
 4. **Legal structure:**
    - [ ] Individual/Freelancer
@@ -44,25 +37,25 @@
 **For each team member, provide:**
 
 ### Person 1:
-- **Name:**
-- **Role/Title:**
-- **Responsibilities:**
-- **Will they attend negotiation meetings?** Yes / No
+- **Name:Ivan weiss Van Der Pol**
+- **Role/Title:Lead Dev**
+- **Responsibilities:give ideas guide  suggest things provide initial investment**
+- **Will they attend negotiation meetings?** Yes
 - **If yes, what role in meeting?**
   - [ ] Lead negotiator (business/pricing)
   - [ ] Technical expert (demos, Q&A)
-  - [ ] Support (note-taking, backup)
+  - [X] Support (note-taking, backup)
   - [ ] Observer
 - **Key strengths/expertise:**
 - **Communication style:** (Direct? Analytical? Relationship-focused?)
 
 ### Person 2:
-- **Name:**
-- **Role/Title:**
-- **Responsibilities:**
-- **Will they attend negotiation meetings?** Yes / No
+- **Name:kyrian weiss van der pol**
+- **Role/Title:developer/marketing**
+- **Responsibilities:impriove here IA**
+- **Will they attend negotiation meetings?** Yes
 - **If yes, what role in meeting?**
-  - [ ] Lead negotiator (business/pricing)
+  - [X] Lead negotiator (business/pricing)
   - [ ] Technical expert (demos, Q&A)
   - [ ] Support (note-taking, backup)
   - [ ] Observer
@@ -70,13 +63,13 @@
 - **Communication style:**
 
 ### Person 3 (if applicable):
-- **Name:**
-- **Role/Title:**
-- **Responsibilities:**
-- **Will they attend negotiation meetings?** Yes / No
+- **Name:jonathan verdun**
+- **Role/Title:main developer**
+- **Responsibilities:works and does eveything and make the4 AI work and do what wee need wsucesfully**
+- **Will they attend negotiation meetings?** Yes 
 - **If yes, what role in meeting?**
   - [ ] Lead negotiator (business/pricing)
-  - [ ] Technical expert (demos, Q&A)
+  - [x] Technical expert (demos, Q&A)
   - [ ] Support (note-taking, backup)
   - [ ] Observer
 - **Key strengths/expertise:**
@@ -92,16 +85,17 @@
 ### Development Costs (from roadmap: 120-150k PYG/hour mentioned)
 
 1. **What hourly rate do you pay developers/yourself?**
-   - Rate: _____ PYG/hour (or USD/hour: _____)
-   - Is this for: [ ] Yourself [ ] Team members [ ] Both
+   - Rate: 70 000 PYG/hour (or USD/hour: _____)
+   - Is this for: [ ] Yourself [ ] Team members [x] Both
 
 2. **How many hours did you invest in this project so far?**
    - Development hours:
    - Design hours:
    - Testing hours:
+   - all done with AI in 80h 
    - Total hours:
 
-3. **What's your time worth?**
+3. **What's your time worth?** we need help to answeer this
    - Your hourly rate (if billing your own time): _____
    - Opportunity cost (what else could you be doing?): _____
 
@@ -129,27 +123,23 @@
 ### Financial Constraints
 
 7. **What's your minimum acceptable price? (from roadmap: "hard pass <15")**
-   - Absolute minimum to break even: _____
-   - Minimum to make it worth your time: _____
-   - What does "15 units" mean in actual currency?
-     - [ ] 15,000 PYG
-     - [ ] 15,000 USD
-     - [ ] Other: _____
-
+   - Absolute minimum to break even: 15 000 000
+   - Minimum to make it worth your time: 40 000 000
+   
 8. **What's your target/ideal price? (from roadmap: mentions 20-25)**
-   - Target price: _____
-   - Stretch goal price: _____
-   - Currency: _____
+   - Target price: 80 000 000
+   - Stretch goal price: 150 000 000
+   - Currency: PYG
 
 9. **Cash flow situation:**
-   - Do you NEED this deal urgently? Yes / No
-   - Can you afford to walk away? Yes / No
-   - How many months can you sustain without this deal? _____
+   - Do you NEED this deal urgently?  No
+   - Can you afford to walk away? Yes
+   - How many months can you sustain without this deal?  3
 
 10. **Other revenue sources:**
-    - Do you have other clients/projects? Yes / No
-    - Is this your primary income? Yes / No
-    - Financial runway: _____ months
+    - Do you have other clients/projects?  No
+    - Is this your primary income? Yes 
+    - Financial runway: 3 months
 
 ---
 
@@ -158,24 +148,24 @@
 ### What You Can Deliver
 
 1. **What can you realistically deliver?**
-   - [ ] The current v1 product as-is
-   - [ ] Custom modifications to v1
-   - [ ] Ongoing support/maintenance
-   - [ ] Training for client team
-   - [ ] Future feature development
-   - [ ] Integration with client systems
+   - [x] The current v1 product as-is
+   - [x] Custom modifications to v1
+   - [x] Ongoing support/maintenance
+   - [x] Training for client team
+   - [x] Future feature development
+   - [x] Integration with client systems
    - [ ] Other: _____
 
 2. **Support capabilities:**
-   - Can you offer 24/7 support? Yes / No
-   - Business hours support? Yes / No
-   - Response time commitment: _____ hours
-   - Bug fix commitment: _____ hours/days
+   - Can you offer 24/7 support? Yes 
+   - Business hours support? Yes 
+   - Response time commitment: 2 hours
+   - Bug fix commitment: 2 days
 
 3. **Capacity constraints:**
-   - Can you take on more clients simultaneously? Yes / No
-   - How many clients can you handle at once? _____
-   - Team bandwidth: _____ hours/week available
+   - Can you take on more clients simultaneously? Yes
+   - How many clients can you handle at once? 5
+   - Team bandwidth: 120 hours/week available
 
 ### Your Track Record
 
@@ -204,22 +194,22 @@
 ### Why Should Client Choose YOU?
 
 1. **Speed/Availability (from roadmap: "already built, v1 ready"):**
-   - How quickly can you deploy? _____
-   - Is the product truly ready now? Yes / No
-   - What still needs to be done? _____
+   - How quickly can you deploy? ready
+   - Is the product truly ready now? Yes
+   - What still needs to be done? additional; askes from the client that are not urgent
 
 2. **Your unique advantages:**
-   - [ ] We're faster than competitors
-   - [ ] We're cheaper than competitors
-   - [ ] We offer better support
-   - [ ] We have specific expertise in _____
-   - [ ] We're local/same timezone
-   - [ ] We're flexible/agile
+   - [x] We're faster than competitors
+   - [?] We're cheaper than competitors
+   - [X] We offer better support
+   - [X] We have specific expertise in AI
+   - [x] We're local/same timezone
+   - [x] We're flexible/agile
    - [ ] We have proven track record
    - [ ] Other: _____
 
 3. **What makes you different from:**
-   - **Competitors:** _____
+   - **Competitors:** we are fully AI 
    - **In-house development:** _____
    - **Do-it-yourself solutions:** _____
    - **Status quo (doing nothing):** _____
@@ -250,36 +240,39 @@
 ### If This Deal Falls Through
 
 1. **What's your Plan B if client says no?**
-   - [ ] Find another client
-   - [ ] Pivot to different market
-   - [ ] Use product for own business
-   - [ ] Sell to different industry
-   - [ ] Partner with someone else
+   - [X] Find another client
+   - [X] Pivot to different market
+   - [X] Use product for own business
+   - [X] Sell to different industry
+   - [X] Partner with someone else
    - [ ] Other: _____
 
 2. **How good is your BATNA?**
-   - On a scale of 1-10, how attractive is your Plan B? _____
-   - Would you be OK if this deal doesn't happen? Yes / No
+   - On a scale of 1-10, how attractive is your Plan B? 7
+   - Would you be OK if this deal doesn't happen? Yes 
    - What makes you need/want this deal?
+   i want references reputation more furture proyects references in the industry wioith coligues and posible contazcts for other  proyects 
+   more than money we want to have more oportunities with them 
+
 
 3. **Other opportunities:**
-   - Do you have other leads/prospects? Yes / No
-   - How many other potential clients? _____
-   - Are they better/worse than this one? _____
+   - Do you have other leads/prospects?  No
+   - How many other potential clients? we still need to market mor and to do talsk and get known 
+   - Are they better/worse than this one? unsure
 
 4. **Client's BATNA (their alternatives):**
    - What can they do if they don't work with you?
-     - [ ] Build in-house (how long? _____ )
-     - [ ] Hire competitor (who? _____ )
-     - [ ] Do nothing/status quo
-     - [ ] Use free/cheap tool (which? _____ )
-   - How good is THEIR BATNA (1-10)? _____
+     - [X] Build in-house (how long? months of devellopment without AI)
+     - [X] Hire competitor (who? no one as efficient as us )
+     - [ ] Do nothing/status quo ? this will take a lot of time form their employess on repeptitive manual tasks
+     - [ ] Use free/cheap tool (which? none available )
+   - How good is THEIR BATNA (1-10)? 1
 
 5. **Who needs this deal more?**
    - [ ] We need it more (we're desperate)
-   - [ ] They need it more (they have urgent problem)
+   - [x] They need it more (they have urgent problem)
    - [ ] Equal need
-   - Why? _____
+   - Why? they are having a problem many time s a year that this solution will fix and streamline
 
 ---
 
@@ -288,9 +281,9 @@
 ### Project Timeline
 
 1. **How long to deliver? (from roadmap: "2 months" mentioned)**
-   - Realistic delivery time: _____
-   - Best case delivery: _____
-   - Worst case delivery: _____
+   - Realistic delivery time: ready will negotiate tomorrow
+   - Best case delivery: 1 day
+   - Worst case delivery: 1 week if we need to add more stuff
 
 2. **Your availability:**
    - When can you start? _____
@@ -298,16 +291,16 @@
    - Any upcoming constraints (holidays, other projects)? _____
 
 3. **Decision timeline:**
-   - When do you need an answer by? _____
-   - Why? (cash flow, other opportunities, etc.) _____
-   - Are you flexible on timing? Yes / No
+   - When do you need an answer by? end of the month
+   - Why? (cash flow, other opportunities, etc.) to know what to focus on
+   - Are you flexible on timing? Yes 
 
 ### Negotiation Timeline
 
 4. **Upcoming meetings/deadlines:**
-   - Next meeting date: _____
-   - Decision deadline: _____
-   - Any external pressures: _____
+   - Next meeting date: tomorow
+   - Decision deadline: next week
+   - Any external pressures: no
 
 ---
 
@@ -317,27 +310,27 @@
 
 1. **Your comfort level with negotiation:**
    - [ ] Very comfortable, I love it
-   - [ ] Somewhat comfortable
+   - [x] Somewhat comfortable
    - [ ] Uncomfortable, but I can do it
    - [ ] Very uncomfortable, hate conflict
 
 2. **Your natural style:**
    - [ ] Competitive (win-lose)
-   - [ ] Collaborative (win-win)
+   - [x] Collaborative (win-win)
    - [ ] Accommodating (give in easily)
    - [ ] Avoiding (hate confrontation)
 
 3. **Your triggers/sensitivities:**
-   - What makes you anxious in negotiation? _____
-   - What makes you want to walk away? _____
-   - What do you struggle with? _____
+   - What makes you anxious in negotiation? make questions for this im not sure
+   - What makes you want to walk away? rudenes
+   - What do you struggle with? people screaming
 
 4. **Your strengths in negotiation:**
    - [ ] Good listener
    - [ ] Strong communicator
-   - [ ] Analytical/data-driven
-   - [ ] Relationship-builder
-   - [ ] Creative problem-solver
+   - [X] Analytical/data-driven
+   - [X] Relationship-builder
+   - [X] Creative problem-solver
    - [ ] Other: _____
 
 ---
@@ -347,7 +340,7 @@
 ### Why You're Worth It
 
 1. **What problem do you solve for clients?**
-   - Primary pain point: _____
+   - Primary pain point: manual labor wasted time
    - How much does that problem cost them now? _____
    - How much will you save them? _____
 

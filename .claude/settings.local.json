@@ -3,7 +3,9 @@
     "allow": [
       "Bash(gh repo list:*)",
       "Bash(mkdir:*)",
-      "Bash(git clone:*)"
+      "Bash(git clone:*)",
+      "Bash(dir:*)",
+      "Bash(tree:*)"
     ],
     "deny": [],
     "ask": []
