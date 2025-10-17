@@ -34,7 +34,7 @@
 ## VISUAL TREE WITH PRIORITIES
 
 ```
-Negociation-Personal/
+Negociation-Personal/Negociation-Plan
 │
 ├── 📁 01-Research/ ⭐ START HERE - DO THIS FIRST
 │   │
