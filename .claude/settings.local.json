@@ -11,7 +11,11 @@
       "Bash(then echo \"$dir\")",
       "Bash(fi)",
       "Bash(done)",
-      "Bash(del presentation-outline.md presentation-outline-10-slides.md presentation-outline-2-part-A-teaser.md presentation-outline-2-part-B-main.md presentation-script.md PRESENTATION-OPTIONS-GUIDE.md QUICK-START.md)"
+      "Bash(del presentation-outline.md presentation-outline-10-slides.md presentation-outline-2-part-A-teaser.md presentation-outline-2-part-B-main.md presentation-script.md PRESENTATION-OPTIONS-GUIDE.md QUICK-START.md)",
+      "Bash(powershell -Command \"Get-ChildItem -Recurse -Directory | Select-Object -ExpandProperty FullName | Sort-Object\")",
+      "Bash(powershell -Command \"Get-ChildItem -Path ''Original context'' -Name\")",
+      "Bash(powershell -Command \"Get-ChildItem -Path ''Negociation plan\\03-Materials-for-Client'' -Recurse -Name | head -30\")",
+      "Bash(powershell -Command:*)"
     ],
     "deny": [],
     "ask": []
