@@ -5,7 +5,13 @@
       "Bash(mkdir:*)",
       "Bash(git clone:*)",
       "Bash(dir:*)",
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "Bash(while read dir)",
+      "Bash(do if [ ! -f \"$dir/README.md\" ])",
+      "Bash(then echo \"$dir\")",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(del presentation-outline.md presentation-outline-10-slides.md presentation-outline-2-part-A-teaser.md presentation-outline-2-part-B-main.md presentation-script.md PRESENTATION-OPTIONS-GUIDE.md QUICK-START.md)"
     ],
     "deny": [],
     "ask": []

@@ -9,6 +9,20 @@
 
 ---
 
+## Quick Navigation
+
+**START HERE:**
+- [MASTER-CONTEXT.md](Organized-Context/05-Master-Documents/MASTER-CONTEXT.md) - Complete reference in one file (10 min read)
+- [Negotiation-Playbook.md](Negociation%20plan/02-Strategy/Negotiation-Playbook.md) - Full strategy document (30 min read)
+- [Meeting-Agenda.md](Negociation%20plan/06-Meeting-Materials/Pre-Meeting/Meeting-Agenda.md) - Oct 17 execution plan (15 min read)
+
+**KEY DIRECTORIES:**
+- [Negociation plan/](Negociation%20plan/) - All active working materials (26 files)
+- [Organized-Context/](Organized-Context/) - Consolidated reference documents (12 files)
+- [Original context/](Original%20context/) - Archived source materials (26 files)
+
+---
+
 ## Overview
 
 This repository contains comprehensive negotiation preparation materials for a SaaS product deal with **Personal Paraguay**, a leading telecommunications company. The project centers on selling a production-ready **Customer AI Feedback Analyzer** that processes customer feedback data to extract emotions, pain points, churn risk, and NPS classifications.
@@ -26,54 +40,92 @@ This repository contains comprehensive negotiation preparation materials for a S
 
 ```
 Negociation-Personal/
-├── 0_Original context provided/         # 🔵 Source materials & research
-│   ├── Business Roadmap Personal.md        # Audio transcription analysis
-│   ├── Features - Customer Feedback Project.md  # Technical specifications
-│   ├── Features - 10-16-25.md              # Latest feature updates
-│   ├── INTERNAL-TEAM-QUESTIONNAIRE.md      # Team strategy assessment
-│   ├── Playbook Abstract (Best Strategies.md)  # Strategic playbook summary
-│   ├── customer feedback architecture report.md  # Technical architecture
-│   ├── jose luis dominguez past experiences.md   # Client stakeholder profile
-│   ├── dirty plays from them to take care.md     # Competitive intelligence
-│   ├── predictive operative moves.md       # Strategic forecasting
-│   └── Organization-Analysis/              # 7 files on AI Whisperers portfolio
+├── README.md                             # 📘 This file - Master project guide
 │
-├── Negociation plan/                     # 🔴 ACTIVE - Meeting materials
-│   ├── 01-Research/
-│   │   ├── Client-Research/                # Client intelligence (5 files)
-│   │   └── Internal-Analysis/              # BATNA & internal prep (1 file)
-│   ├── 02-Strategy/
-│   │   └── Negotiation-Playbook.md         # Master strategy document
-│   ├── 03-Materials-for-Client/
-│   │   ├── Presentations/Gamma-Presentation/  # 13 files (EN + ES variants)
-│   │   └── Demonstrations/Demo-Script.md   # Product walkthrough
-│   ├── 05-Worksheets/
+├── Negociation plan/                     # 🔴 ACTIVE - Meeting materials (26 files)
+│   ├── README.md                           # Overview of negotiation materials
+│   ├── 01-Research/                        # Client & internal research (6 files)
+│   │   ├── README.md                         # Research materials guide
+│   │   ├── Client-Research/                  # Client intelligence (5 files)
+│   │   │   ├── Company-Profile.md              # Personal Paraguay & José Luis profile
+│   │   │   ├── Pain-Points-Analysis.md         # Quantified pain ($364k/year)
+│   │   │   ├── Budget-Timeline-Research.md     # Budget & timeline expectations
+│   │   │   ├── Previous-Interactions-Log.md    # Meeting history
+│   │   │   └── Stakeholder-Analysis.md         # Decision-maker mapping
+│   │   └── Internal-Analysis/                # Internal prep (1 file)
+│   │       └── BATNA-Analysis.md               # Leverage assessment (7/10 vs 2-3/10)
+│   ├── 02-Strategy/                        # Negotiation strategy (1 file)
+│   │   ├── README.md                         # Strategy documents guide
+│   │   └── Negotiation-Playbook.md           # 🔥 MASTER STRATEGY (27 pages, 664 lines)
+│   ├── 03-Materials-for-Client/            # Client deliverables (14 files)
+│   │   ├── README.md                         # Client materials overview
+│   │   ├── Demonstrations/
+│   │   │   └── Demo-Script.md                # 15-minute product walkthrough
+│   │   ├── Presentations/Gamma-Presentation/ # 12 presentation files
+│   │   │   ├── README.md                       # Gamma.app guide
+│   │   │   ├── presentation-outline-10-slides.md (+ SPANISH version)
+│   │   │   ├── presentation-outline-2-part-A-teaser.md (+ SPANISH version)
+│   │   │   ├── presentation-outline-2-part-B-main.md (+ SPANISH version)
+│   │   │   └── [5+ supporting files]
+│   │   ├── Leave-Behinds/                    # [Empty - ready for collateral]
+│   │   ├── Proposals/                        # [Empty - ready for proposals]
+│   │   └── Supporting-Docs/                  # [Empty - ready for tech docs]
+│   ├── 05-Worksheets/                      # Planning worksheets (2 files)
 │   │   ├── BATNA-Worksheet-Completed.md
 │   │   └── Value-Proposition-Worksheet-Completed.md
-│   └── 06-Meeting-Materials/
-│       └── Pre-Meeting/                    # Agenda + Team Briefing
+│   ├── 06-Meeting-Materials/               # Oct 17 meeting prep (2 files)
+│   │   ├── README.md                         # Meeting materials guide
+│   │   ├── Pre-Meeting/
+│   │   │   ├── Meeting-Agenda.md             # 60-minute structured plan
+│   │   │   └── Team-Briefing.md              # Role assignments & mantras
+│   │   ├── During-Meeting/                   # [Empty - for live notes]
+│   │   └── Post-Meeting/                     # [Empty - for follow-up]
+│   └── 08-Financial/                       # [Empty - for post-close tracking]
+│       ├── Cost-Analysis/
+│       └── Pricing-Models/
 │
-├── Questions/                            # 🟡 Q&A documentation (7 files)
-│   ├── 01-Team-Company/                    # Identity & team questions
-│   ├── 02-Financial/                       # Cost & pricing questions
-│   ├── 04-Strategy/                        # BATNA analysis questions
-│   ├── ANSWERS-EXTRACTED-FROM-CONTEXT.md
-│   ├── REMAINING-QUESTIONS.md
-│   └── FILE-LIST.md
+├── Organized-Context/                    # 🟢 CONSOLIDATED REFERENCE (12 files)
+│   ├── README.md                           # Organization & maintenance guide
+│   ├── 01-Client-Intelligence/             # Everything about client (7 files)
+│   │   ├── README.md                         # Client intelligence index
+│   │   ├── Client-Profile-Complete.md        # Comprehensive José Luis analysis
+│   │   ├── Client-Pain-Analysis.md           # Problem breakdown with ROI
+│   │   ├── Client-History.md                 # 2-month engagement timeline
+│   │   ├── Decision-Process.md               # Stakeholder approval chain
+│   │   ├── Competitor-Analysis.md            # Alternatives analysis
+│   │   ├── Financial-Market-Analysis.md      # Market/budget context
+│   │   └── Regulatory-Environment.md         # Regulatory considerations
+│   ├── 02-Product-Technical/               # Product specifications (1 file)
+│   │   └── Product-Overview.md               # Complete product specs & ROI
+│   ├── 03-Negotiation-Strategy/            # Strategy summary (1 file)
+│   │   └── Strategy-Summary.md               # Condensed strategy reference
+│   ├── 04-Our-Company/                     # Team & capabilities (1 file)
+│   │   └── Team-And-Capabilities.md          # AI Whisperers profile & BATNA
+│   └── 05-Master-Documents/                # Complete reference (1 file)
+│       ├── README.md                         # Master documents guide
+│       └── MASTER-CONTEXT.md                 # 🔥 COMPLETE NEGOTIATION REFERENCE (463 lines)
 │
-├── Organized-Context/                    # 🟢 Consolidated reference structure
-│   └── README.md                           # Organization guide (to be populated)
+├── Original context/                     # 🔵 ARCHIVED SOURCE MATERIALS (26 files)
+│   ├── README.md                           # Archive organization guide
+│   ├── Business Roadmap Personal.md        # Audio transcription analysis
+│   ├── Features - 10-16-25.md              # Latest feature updates
+│   ├── Features - Customer Feedback Project.md  # Technical specifications
+│   ├── customer feedback architecture report.md  # Technical deep-dive
+│   ├── dirty plays from them to take care.md     # Competitive intelligence
+│   ├── INTERNAL-TEAM-QUESTIONNAIRE.md      # Team strategy assessment
+│   ├── jose luis dominguez past experiences.md   # Client stakeholder profile
+│   ├── Playbook Abstract (Best Strategies.md)  # Strategic playbook summary
+│   ├── predictive operative moves.md       # Strategic forecasting
+│   ├── pre-parquet-feature-implementation.md # Implementation details
+│   ├── Organization-Analysis/              # 7 portfolio files
+│   └── Questions/                          # 7 Q&A files
 │
-├── new context/                          # 🔵 Latest technical updates
-│   └── pre-parquet-feature-implementation.md
+├── new context/                          # 🔵 [Empty - for future updates]
 │
-├── .claude/                              # Claude AI configuration
-├── .specstory/                           # SpecStory AI chat artifacts
-├── .git/                                 # Git version control
-├── .gitignore                            # Git ignore rules
-├── .cursorindexingignore                # Cursor IDE ignore rules
-└── README.md                             # This file
+└── [System files]                        # .claude/, .git/, .gitignore, etc.
 ```
+
+**Total: 66 markdown files** | **Critical for Oct 17: 15 files** | **Status: ✅ READY**
 
 ---
 
@@ -546,89 +598,102 @@ After the Oct 17 meeting, consider expanding structure:
 
 ---
 
+## Project Timeline
+
+**Phase 1: Initial Contact**
+- August 16, 2025: First contact with Personal Paraguay
+- August-September: Discovery meetings (3 total)
+- Early October: Demo presented, technical evaluation
+
+**Phase 2: Preparation**
+- October 1-10: Research and strategy development
+- October 11-15: Materials creation (presentations, playbook, client research)
+- October 16: Final preparation and cleanup
+
+**Phase 3: Negotiation (Current)**
+- **October 17, 2025:** Main negotiation meeting
+- October 18-20: Follow-up and proposal submission
+- October 21-31: Contract negotiations and finalization
+
+**Phase 4: Implementation (If Deal Closes)**
+- Week 1-2: Onboarding and setup
+- Week 3-4: Training and initial data runs
+- Week 5-8: Monitoring and support
+- Week 8+: Ongoing relationship management
+
+---
+
 ## Version History
 
-**Current Version:** Repository setup with 4 master documents
+**v2.0 - 2025-10-16 (Current)**
+- Complete repository restructure
+- Created comprehensive negotiation plan (26+ files)
+- Added client research (Personal Paraguay + José Luis profile)
+- Built presentation materials (English + Spanish)
+- Developed meeting agenda and team briefing
+- Completed BATNA analysis and value proposition
+- Removed obsolete documents (cleanup for focus)
+- Updated README to reflect actual repository state
 
-**2025-10-16:**
-- Created Business Roadmap Personal.md (audio transcription analysis)
-- Created Features - Customer Feedback Project.md (technical analysis)
-- Created File and Folder Structure Guide.md (organization framework)
-- Created Negotiation Preparation Master Document.md (complete guide)
-- Added README.md (this file)
-
----
-
-## Maintenance
-
-### Weekly Review
-- [ ] Update communication logs
-- [ ] Archive old document versions
-- [ ] Review and update pricing if costs change
-- [ ] Update stakeholder analysis as you learn more
-
-### After Each Meeting
-- [ ] Document meeting notes
-- [ ] Update action items tracker
-- [ ] Send follow-up email within 24 hours
-- [ ] Debrief internally on what worked/didn't work
-
-### After Deal Closes
-- [ ] Complete lessons learned analysis
-- [ ] Archive entire negotiation folder
-- [ ] Update templates based on experience
-- [ ] Document what worked for future deals
+**v1.0 - 2025-10-01 to 10-10**
+- Initial research and context gathering
+- Business roadmap from audio transcriptions
+- Technical product documentation
+- Original file structure planning
 
 ---
 
-## Contact & Support
+## Repository Statistics
 
-**Project Owner:** [Your Name]
-**Project Type:** SaaS Product Negotiation
-**Industry:** Customer Feedback Analytics / AI SaaS
-**Target Market:** Companies with customer feedback data
+**Total Files:** 54+ markdown documents
+**Critical Files:** 15 (for Oct 17 meeting)
+**Preparation Time:** ~40 hours over 2 weeks
+**Team Size:** 3 people (Kyrian, Jonathan, Ivan)
+**Deal Size:** $5,714-$21,429 USD (40-150M PYG)
+**Client Engagement:** 2 months, 3+ meetings
+**Next Milestone:** October 17, 2025 negotiation meeting
+
+---
+
+## Notes for Future Deals
+
+**What Worked Well:**
+- Deep client research (knowing José Luis's background was key)
+- Quantified pain points ($364k/year gave negotiation power)
+- Multiple presentation formats (flexibility for different scenarios)
+- Clear BATNA analysis (confidence in our position)
+- Team role clarity (business/technical split)
+
+**What to Improve:**
+- Earlier price anchoring discussions
+- More competitive intelligence
+- Financial modeling tools (ROI calculator automation)
+- Contract templates preparation
+- Post-meeting follow-up systems
+
+**Lessons Learned:**
+- Let client bid first (reverse anchor)
+- 70/30 listening/talking ratio
+- Never concede without getting something back
+- Have walk-away criteria clear before meeting
+- Product readiness is major leverage
 
 ---
 
 ## License & Usage
 
-This repository contains proprietary negotiation strategy and product documentation. For internal use only.
+**Confidentiality:** This repository contains proprietary business strategy, pricing information, and client intelligence. For internal AI Whisperers use only.
 
-**Confidentiality:** Treat all pricing, cost, and strategy information as confidential.
-
----
-
-## Quick Reference Card
-
-### Pricing Cheat Sheet
-- **Hard Pass:** < 15 units
-- **Target:** 20 units
-- **Aspirational:** 25 units
-- **Strategy:** Tiers (S/M/L) + flat option
-- **Anchor:** Let them go first!
-
-### Product USPs
-- 87% cheaper than full AI
-- 10 seconds for 1000 comments
-- v1 ready now
-- 7 emotions + 8 pain points + churn risk
-
-### Leverage Points
-- Speed (ready now)
-- Cost transparency
-- Low legal overhead
-- Scalability
-- Ease of use ("upload now")
-
-### Meeting Checklist
-- [ ] Demo tested?
-- [ ] Pricing sheet ready?
-- [ ] Team roles clear?
-- [ ] Objections prepared?
-- [ ] Agenda sent 24h before?
+**Do Not Share:**
+- Pricing strategies and corridors
+- Client research and intelligence
+- BATNA analysis and leverage assessments
+- Negotiation playbook tactics
 
 ---
 
-**Last Updated:** 2025-10-16
-**README Version:** 1.0
-**Status:** Active - Pre-Negotiation Phase
+**README Version:** 2.1
+**Last Updated:** October 16, 2025, 11:30 PM
+**Status:** 🔴 ACTIVE - Ready for Oct 17 Negotiation
+**Repository Files:** 66 total (26 active, 12 consolidated, 26 archived, 2 root)
+**Next Update:** After Oct 17 meeting (add outcomes and lessons learned)
