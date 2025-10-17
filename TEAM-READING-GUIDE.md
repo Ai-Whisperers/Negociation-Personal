@@ -17,29 +17,39 @@
 ## 🎯 KYRIAN WEISS VAN DER POL
 **Role:** Business Lead & Lead Negotiator
 
+### 📄 YOUR CHEAT SHEET (Print or Have on Tablet)
+
+**[CHEATSHEET-KYRIAN.md](Negociation plan/06-Meeting-Materials/Pre-Meeting/CHEATSHEET-KYRIAN.md)** ⭐⭐⭐
+- **Time:** 10 minutes to read
+- **Purpose:** One-page printable reference for during meeting
+- **Contains:** Opening script, pricing question, response matrix, objection responses, closing
+- **Action:** PRINT THIS or save to tablet - keep visible during entire meeting
+
+---
+
 ### ⚡ CRITICAL - Must Read Tonight (60-90 minutes)
 
-1. **[Negotiation-Scripts.md](https://github.com/Ai-Whisperers/Negociation-Personal/blob/main/Negociation%20plan/06-Meeting-Materials/Pre-Meeting/Negotiation-Scripts.md)** ⭐⭐⭐
+1. **[Negotiation-Scripts.md](Negociation plan/06-Meeting-Materials/Pre-Meeting/Negotiation-Scripts.md)** ⭐⭐⭐
    - **Priority:** HIGHEST
    - **Time:** 30 minutes
    - **Purpose:** Word-for-word scripts for every scenario
    - **Memorize:** Opening (Script 1A-1D), Pricing Discovery (Script 4A), Top 3 objections
    - **Action:** Keep open on second screen during meeting
 
-2. **[Detailed-Team-Roles.md](https://github.com/Ai-Whisperers/Negociation-Personal/blob/main/Negociation%20plan/06-Meeting-Materials/Pre-Meeting/Detailed-Team-Roles.md)** ⭐⭐⭐
+2. **[Detailed-Team-Roles.md](Negociation plan/06-Meeting-Materials/Pre-Meeting/Detailed-Team-Roles.md)** ⭐⭐⭐
    - **Priority:** HIGHEST
    - **Time:** 20 minutes
    - **Purpose:** Your detailed role, authority, decision trees
    - **Focus:** Pages 1-30 (Kyrian's section), decision trees for scenarios
    - **Action:** Review authority boundaries and 6 key mantras
 
-3. **[QUICK-REFERENCE-FOR-MEETING.md](https://github.com/Ai-Whisperers/Negociation-Personal/blob/main/Negociation%20plan/QUICK-REFERENCE-FOR-MEETING.md)** ⭐⭐⭐
+3. **[QUICK-REFERENCE-FOR-MEETING.md](Negociation plan/QUICK-REFERENCE-FOR-MEETING.md)** ⭐⭐⭐
    - **Priority:** HIGHEST
    - **Time:** 10 minutes
    - **Purpose:** Quick reference card for during meeting
    - **Action:** Print or have on tablet for instant access
 
-4. **[Negotiation-Playbook.md](https://github.com/Ai-Whisperers/Negociation-Personal/blob/main/Negociation%20plan/02-Strategy/Negotiation-Playbook.md)** ⭐⭐⭐
+4. **[Negotiation-Playbook.md](Negociation plan/02-Strategy/Negotiation-Playbook.md)** ⭐⭐⭐
    - **Priority:** HIGHEST
    - **Time:** 30 minutes (review, already read)
    - **Purpose:** Master strategy document (27 pages)
@@ -131,9 +141,19 @@
 ## 💻 JONATHAN VERDUN
 **Role:** Principal Engineer & Technical Demo Lead
 
+### 📄 YOUR CHEAT SHEET (Print or Have on Tablet)
+
+**[CHEATSHEET-JONATHAN.md](Negociation plan/06-Meeting-Materials/Pre-Meeting/CHEATSHEET-JONATHAN.md)** ⭐⭐⭐
+- **Time:** 10 minutes to read
+- **Purpose:** One-page printable demo guide
+- **Contains:** Complete 10-min demo flow, technical Q&A, time tracker, word tracker
+- **Action:** PRINT THIS or have next to demo screen - includes emphasis techniques
+
+---
+
 ### ⚡ CRITICAL - Must Read Tonight (45-60 minutes)
 
-1. **[Demo-Script.md](https://github.com/Ai-Whisperers/Negociation-Personal/blob/main/Negociation%20plan/03-Materials-for-Client/Demonstrations/Demo-Script.md)** ⭐⭐⭐
+1. **[Demo-Script.md](Negociation plan/03-Materials-for-Client/Demonstrations/Demo-Script.md)** ⭐⭐⭐
    - **Priority:** HIGHEST
    - **Time:** 30 minutes
    - **Purpose:** Complete 10-minute demo walkthrough (386 lines)
@@ -224,9 +244,19 @@
 ## 🎓 IVAN WEISS VAN DER POL
 **Role:** Lead Developer & Strategic Advisor
 
+### 📄 YOUR CHEAT SHEET (Print or Use as Template)
+
+**[CHEATSHEET-IVAN.md](Negociation plan/06-Meeting-Materials/Pre-Meeting/CHEATSHEET-IVAN.md)** ⭐⭐⭐
+- **Time:** 15 minutes to read
+- **Purpose:** Fill-in-the-blank note-taking template
+- **Contains:** Meeting notes template, strategic questions, time tracker, observation guide
+- **Action:** Use this as your primary note-taking structure during meeting
+
+---
+
 ### ⚡ CRITICAL - Must Read Tonight (45-60 minutes)
 
-1. **[Detailed-Team-Roles.md](https://github.com/Ai-Whisperers/Negociation-Personal/blob/main/Negociation%20plan/06-Meeting-Materials/Pre-Meeting/Detailed-Team-Roles.md)** ⭐⭐⭐
+1. **[Detailed-Team-Roles.md](Negociation plan/06-Meeting-Materials/Pre-Meeting/Detailed-Team-Roles.md)** ⭐⭐⭐
    - **Priority:** HIGHEST
    - **Time:** 20 minutes
    - **Purpose:** Your detailed role as observer and note-taker
@@ -362,17 +392,29 @@ From Detailed-Team-Roles.md (page 68):
 - **Hold firm:** Eye contact + neutral face
 - **Time check:** Ivan taps watch or catches Kyrian's eye
 
+### Cheat Sheets - All Team Members
+
+**[CHEATSHEETS-README.md](Negociation plan/06-Meeting-Materials/Pre-Meeting/CHEATSHEETS-README.md)** ⭐⭐⭐
+- **Overview of all cheat sheets**
+- Quick comparison table
+- How to use each cheat sheet
+- Digital vs. print setup recommendations
+- Critical numbers all should know
+- Silent signals guide
+
+---
+
 ### Critical Documents All Should Know
 
-1. **[QUICK-REFERENCE-FOR-MEETING.md](https://github.com/Ai-Whisperers/Negociation-Personal/blob/main/Negociation%20plan/QUICK-REFERENCE-FOR-MEETING.md)** ⭐⭐⭐
+1. **[QUICK-REFERENCE-FOR-MEETING.md](Negociation plan/QUICK-REFERENCE-FOR-MEETING.md)** ⭐⭐⭐
    - Quick reference card for all
    - Have accessible during meeting
 
-2. **[Team-Briefing.md](https://github.com/Ai-Whisperers/Negociation-Personal/blob/main/Negociation%20plan/06-Meeting-Materials/Pre-Meeting/Team-Briefing.md)** ⭐⭐⭐
+2. **[Team-Briefing.md](Negociation plan/06-Meeting-Materials/Pre-Meeting/Team-Briefing.md)** ⭐⭐⭐
    - Team roles and coordination
    - Success metrics
 
-3. **[README.md](https://github.com/Ai-Whisperers/Negociation-Personal/blob/main/Negociation%20plan/06-Meeting-Materials/README.md)** ⭐
+3. **[README.md](Negociation plan/06-Meeting-Materials/README.md)** ⭐
    - Overview of meeting materials structure
 
 ---
@@ -417,6 +459,7 @@ These are in Original context/ and are already consolidated:
 ## ✅ TONIGHT'S PREP CHECKLIST
 
 ### Kyrian
+- [ ] **Read CHEATSHEET-KYRIAN.md** (10 min) - PRINT OR SAVE TO TABLET
 - [ ] Read Negotiation-Scripts.md (memorize opening, pricing question, top 3 objections)
 - [ ] Read Detailed-Team-Roles.md (your section + decision trees)
 - [ ] Review Negotiation-Playbook.md (key sections)
@@ -425,6 +468,7 @@ These are in Original context/ and are already consolidated:
 - [ ] Have pricing tiers memorized (S: 40M, M: 60M, L: 80M)
 
 ### Jonathan
+- [ ] **Read CHEATSHEET-JONATHAN.md** (10 min) - PRINT OR HAVE NEXT TO DEMO
 - [ ] Read Demo-Script.md (full script)
 - [ ] Read Detailed-Team-Roles.md (your section)
 - [ ] Memorize demo opening and closing
@@ -434,14 +478,16 @@ These are in Original context/ and are already consolidated:
 - [ ] Practice complete demo twice
 
 ### Ivan
+- [ ] **Read CHEATSHEET-IVAN.md** (15 min) - USE AS NOTE-TAKING TEMPLATE
 - [ ] Read Detailed-Team-Roles.md (your section)
-- [ ] Set up note-taking template
+- [ ] Set up note-taking template from cheat sheet
 - [ ] Read Team-Briefing.md (full document)
 - [ ] Read Negotiation-Playbook.md (understand strategy)
 - [ ] Prepare all During-Meeting tracking documents
 - [ ] Review 10 strategic questions to consider
 
 ### All Team Members
+- [ ] Review CHEATSHEETS-README.md (know what each contains)
 - [ ] Review Team-Briefing.md together
 - [ ] Practice silent communication signals
 - [ ] Quick run-through of meeting flow
@@ -478,15 +524,21 @@ These are in Original context/ and are already consolidated:
 
 ---
 
-## 📱 QUICK ACCESS - Most Critical 5 Files
+## 📱 QUICK ACCESS - Most Critical Files During Meeting
 
 **For quick access during meeting, have these open:**
 
-1. **[Negotiation-Scripts.md](https://github.com/Ai-Whisperers/Negociation-Personal/blob/main/Negociation%20plan/06-Meeting-Materials/Pre-Meeting/Negotiation-Scripts.md)** - Kyrian's reference
-2. **[Demo-Script.md](https://github.com/Ai-Whisperers/Negociation-Personal/blob/main/Negociation%20plan/03-Materials-for-Client/Demonstrations/Demo-Script.md)** - Jonathan's reference
-3. **[QUICK-REFERENCE-FOR-MEETING.md](https://github.com/Ai-Whisperers/Negociation-Personal/blob/main/Negociation%20plan/QUICK-REFERENCE-FOR-MEETING.md)** - All team quick reference
-4. **[meeting-notes-live.md](https://github.com/Ai-Whisperers/Negociation-Personal/blob/main/Negociation%20plan/06-Meeting-Materials/During-Meeting/meeting-notes-live.md)** - Ivan's primary tool
-5. **[Detailed-Team-Roles.md](https://github.com/Ai-Whisperers/Negociation-Personal/blob/main/Negociation%20plan/06-Meeting-Materials/Pre-Meeting/Detailed-Team-Roles.md)** - Role reference for all
+### 🎯 CHEAT SHEETS (One-Page References)
+1. **[CHEATSHEET-KYRIAN.md](Negociation plan/06-Meeting-Materials/Pre-Meeting/CHEATSHEET-KYRIAN.md)** - Kyrian's one-page guide
+2. **[CHEATSHEET-JONATHAN.md](Negociation plan/06-Meeting-Materials/Pre-Meeting/CHEATSHEET-JONATHAN.md)** - Jonathan's demo guide
+3. **[CHEATSHEET-IVAN.md](Negociation plan/06-Meeting-Materials/Pre-Meeting/CHEATSHEET-IVAN.md)** - Ivan's note-taking template
+
+### 📚 FULL SCRIPTS (Detailed References)
+4. **[Negotiation-Scripts.md](Negociation plan/06-Meeting-Materials/Pre-Meeting/Negotiation-Scripts.md)** - Kyrian's detailed scripts
+5. **[Demo-Script.md](Negociation plan/03-Materials-for-Client/Demonstrations/Demo-Script.md)** - Jonathan's detailed demo
+6. **[QUICK-REFERENCE-FOR-MEETING.md](Negociation plan/QUICK-REFERENCE-FOR-MEETING.md)** - All team quick reference
+7. **[meeting-notes-live.md](Negociation plan/06-Meeting-Materials/During-Meeting/meeting-notes-live.md)** - Ivan's live notes
+8. **[Detailed-Team-Roles.md](Negociation plan/06-Meeting-Materials/Pre-Meeting/Detailed-Team-Roles.md)** - Role reference for all
 
 ---
 
