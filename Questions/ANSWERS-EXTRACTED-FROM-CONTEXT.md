@@ -785,3 +785,138 @@
 1 USD = 7,074.24 PYG
 1,000 USD = 7,074,240 PYG (~7.1M PYG)
 10,000 USD = 70,742,400 PYG (~70.7M PYG)
+
+---
+
+## 🆕 NEW ANSWERS FROM REMAINING QUESTIONS (Added 2025-10-16)
+
+### Critical Questions - Answered
+
+**1. Currency Confirmation ✅**
+- **Answer:** YES, we are using millions of Paraguaníes (M PYG)
+- **Confirmed pricing:**
+  - Hard pass: 15M PYG = ~$2,143 USD
+  - Minimum acceptable: 40M PYG = ~$5,714 USD
+  - Target: 80M PYG = ~$11,429 USD
+
+**2. Meeting Timeline ✅**
+- **Answer:** Meeting scheduled for **October 17, 2025** (10/17/2025)
+- **Note:** This is tomorrow from the date of this document
+
+**3. Client's Specific Pain Point Trigger ✅**
+- **Answer:** They want to **analyze all customer feedback automatically instead of manually**
+- **Key motivation:** Eliminate manual review process
+- **Value proposition focus:** Time savings + automation + faster insights
+
+**4. Sample Data Templates ✅**
+- **Answer:** YES, we have many samples to show and test with
+- **Status:** Ready for demonstration and testing
+- **Use case:** Can demonstrate data ingestion capabilities during negotiation
+
+**5. Token Cap Definitions ⚠️**
+- **Answer:** Not fully confirmed, but likely documented in:
+  - File: `../0_Original context provided/Organization-Analysis/06-CUSTOMER-FEEDBACK-APP.md`
+  - Source: Project README for the client
+- **Status:** NEEDS VERIFICATION - Check that file for tier definitions (T1/T2/T3)
+
+**6. Infrastructure Costs ⚠️**
+- **Answer:** Information is in:
+  - File: `../0_Original context provided/Organization-Analysis/06-CUSTOMER-FEEDBACK-APP.md`
+- **Status:** NEEDS EXTRACTION - Review that file for monthly costs
+
+---
+
+### Helpful Questions - Answered
+
+**7. Budget Indication ✅**
+- **Answer:** NO budget indication from José Luis
+- **Implication:** We should use reverse-anchor strategy (let them go first)
+
+**8. Communication History ✅**
+- **Answer:**
+  - **First contact date:** August 16, 2025 (08/16/2025)
+  - **Number of meetings/calls:** 3 meetings total
+  - **Demo already shown:** YES
+  - **Technical questions asked:** Some technical questions have been asked
+- **Analysis:**
+  - 2 months of engagement (Aug 16 → Oct 17)
+  - Demo completed suggests buying stage is advanced
+  - Multiple touchpoints indicate serious interest
+
+**9. Decision-Making Authority ✅**
+- **Answer:** José Luis **needs approval** (does NOT have final authority)
+- **Implication:**
+  - José Luis is a champion, not the final decision-maker
+  - Need to help him sell internally
+  - May need to provide materials for him to present to:
+    - CFO/Finance team
+    - CTO/IT team
+    - Executive committee
+  - Our negotiation strategy should include "internal selling support"
+
+**10. Non-Financial Value Ranking ✅**
+- **Answer:** José Luis values most:
+  - **Freedom from manual labor** (automation)
+  - **Automatic daily reports** (recurring automated insights)
+  - **Faster reports** (speed/efficiency)
+- **Strategic concessions to offer:**
+  - Automated scheduled reports (low cost for us, high value for him)
+  - Daily/weekly dashboards
+  - Email alerts/summaries
+  - Training on maximizing automation
+
+---
+
+## 🔍 ACTION ITEMS FROM NEW ANSWERS
+
+### Immediate (Before 10/17/2025 Meeting)
+
+1. **Verify Token Caps & Infrastructure Costs**
+   - Read: `../0_Original context provided/Organization-Analysis/06-CUSTOMER-FEEDBACK-APP.md`
+   - Extract tier definitions (T1/T2/T3 token limits)
+   - Extract monthly infrastructure costs
+   - Update pricing tiers with exact numbers
+
+2. **Prepare Internal Selling Materials**
+   - José Luis needs approval → create executive summary
+   - ROI calculator for his stakeholders
+   - One-pager for CFO (financial benefits)
+   - One-pager for CTO (technical architecture)
+
+3. **Emphasize Automation Value**
+   - Demo should highlight "set it and forget it" automation
+   - Show daily/weekly automated reports capability
+   - Emphasize time savings vs. manual review
+
+4. **Prepare Non-Financial Concessions**
+   - Automated reporting schedule (included in package)
+   - Email alerts/summaries (low cost, high value)
+   - Training sessions on automation features
+   - Dashboard customization for daily use
+
+5. **Reverse-Anchor Strategy**
+   - No budget indication = let José Luis anchor first
+   - Be prepared to justify our target (80M PYG)
+   - Have tier options ready (S/M/L structure)
+
+### Timeline Context
+
+- **First Contact:** 08/16/2025
+- **Engagement Duration:** 2 months
+- **Meetings Held:** 3 (including demo)
+- **Negotiation Meeting:** 10/17/2025 (tomorrow)
+- **Decision Authority:** José Luis needs approval from higher-ups
+
+### Relationship Maturity Assessment
+
+✅ **Strong indicators:**
+- 3 meetings over 2 months (consistent engagement)
+- Demo already completed (advanced buying stage)
+- Technical questions asked (serious evaluation)
+
+⚠️**Risk factors:**
+- José Luis is champion, not decision-maker (internal approval needed)
+- No budget indication given (may be keeping cards close)
+- 2-month timeline suggests careful evaluation (not urgent purchase)
+
+**Recommended approach:** Support José Luis in building internal business case
